@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="docs/guides/data/examples/lazy_associations/|examples/app/nested-loading/app/model/|src/slider/|jsbuilder/tests/|examples/ux/event/|examples/platform/|src/core/examples/|examples/app/feed-viewer/|src/picker/|examples/ux/DataView/|examples/portal/classes/|src/layout/container/|examples/statusbar/|pkgs/|src/tip/|src/selection/|examples/window/|src/fx/target/|src/form/|examples/|src/grid/header/|docs/guides/direct/|examples/ux/statusbar/|src/grid/column/|src/core/src/dom/|src/grid/property/|src/tree/|locale/|src/core/src/class/|src/core/src/misc/|examples/app/feed-viewer/app/view/|src/chart/axis/|examples/view/multisort/|examples/ux/grid/|docs/app/view/index/|src/container/|src/direct/|src/button/|examples/app/simple/app/view/user/|src/resizer/|src/app/|examples/app/nested-loading/app/store/|jsbuilder/src/generators/app/files/lib/jasmine/|examples/grouptabs/|docs/guides/data/|examples/form/|docs/prettify/|examples/app/feed-viewer/app/model/|docs/output/|examples/simple-widgets/|edspencer-Ext.ux.Exporter-71e60b8/CSVFormatter/|examples/resizer/|src/chart/theme/|docs/extjs/|src/data/writer/|src/core/test/unit/spec/version/|src/core/examples/src/Sample/deadlock/|examples/sandbox/|src/menu/|docs/guides/components/|docs/guides/forms/|builds/|src/core/src/lang/|docs/guides/application_architecture/|examples/history/|src/core/test/unit/spec/dom/|examples/app/simple/app/model/|src/core/examples/src/Sample/ability/|src/core/src/util/|examples/menu/|src/core/test/unit/spec/lang/|src/draw/|examples/app/feed-viewer/app/controller/|examples/ux/data/|examples/portal/|examples/button/|src/layout/component/|examples/shared/extjs/|docs/guides/theming/|docs/guides/tree/|docs/guides/drag_and_drop/|src/chart/series/|src/dd/|jsbuilder/bin/|examples/ux/grid/filter/|examples/grid-filtering/|docs/guides/class_system/|jsbuilder/src/generators/app/files/lib/JSBuilder/bin/|examples/tabs/|docs/guides/grid/|docs/guides/DOM/|docs/guides/getting_started/|jsbuilder/src/generators/app/|examples/qtips/|build/|examples/app/nested-loading/|examples/layout-browser/|docs/|jsbuilder/src/generators/app/files/app/|jsbuilder/src/generators/controller/templates/|examples/desktop/|src/window/|docs/app/|jsbuilder/src/generators/model/templates/|src/grid/|docs/app/controller/|src/chart/|jsbuilder/src/generators/model/|examples/state/|src/layout/component/field/|docs/guides/data/examples/sorting_grouping_filtering_store/|docs/app/view/search/|src/layout/container/boxOverflow/|jsbuilder/tests/parser/|src/view/|examples/app/simple/app/controller/|examples/app/nested-loading/app/view/book/|docs/guides/data/examples/simple_store/|examples/core/|jsbuilder/src/generators/controller/|src/toolbar/|examples/panel/bubble-panel/resources/|src/grid/plugin/|examples/ux/grid/menu/|examples/desktop/js/|examples/personel-review/|docs/app/store/|docs/guides/data/examples/model_with_proxy/|src/flash/|examples/panel/bubble-panel/|src/|docs/app/model/|examples/layout-browser/layouts/|examples/component-loader/|examples/restful/|jsbuilder/src/generators/app/files/lib/sencha-jasmine/matchers/|src/data/|src/layout/|src/core/test/unit/spec/|jsbuilder/src/generators/app/files/lib/sencha-jasmine/|examples/app/simple/app/store/|docs/app/view/tree/|jsbuilder/src/Parser/Statement/|examples/ux/form/|src/state/|examples/app/simple/app/view/|docs/guides/data/examples/associations_validations/|examples/view/|jsbuilder/src/|src/core/test/unit/resources/|examples/grid/|src/data/reader/|jsbuilder/src/generators/app/files/test/unit/|examples/ux/layout/component/form/|examples/layout/|examples/app/feed-viewer/app/store/|src/draw/engine/|examples/app/nested-loading/app/controller/|src/panel/|examples/locale/|examples/ux/layout/|examples/shared/|examples/writer/|edspencer-Ext.ux.Exporter-71e60b8/ExcelFormatter/|src/form/action/|src/core/examples/src/Sample/|examples/message-box/|docs/app/view/cls/|examples/slider/|examples/toolbar/|examples/feed-viewer/viewer/|src/grid/feature/|src/core/test/unit/spec/class/|src/fx/|examples/panel/|examples/app/nested-loading/app/view/|examples/keynav/|docs/guides/tasks_tutorial/|examples/view/chooser/|examples/draw/|examples/app/feed-viewer/app/view/feed/|edspencer-Ext.ux.Exporter-71e60b8/|src/util/|examples/multiselect/|src/core/src/|examples/tree/|examples/direct/|src/core/examples/src/Sample/notdeadlock/|src/core/src/env/|examples/sandbox/js/|src/form/field/|examples/themes/|examples/app/nested-loading/app/view/review/|examples/ux/|examples/organizer/|examples/data/|docs/guides/data/examples/inline_data/|src/core/test/unit/spec/util/|src/core/test/unit/spec/env/|src/core/test/unit/spec/misc/|examples/app/feed-viewer/app/lib/|src/tree/plugin/|src/data/proxy/|examples/app/simple/|examples/key-feed-viewer/viewer/|docs/guides/drawing_and_charting/|src/tab/|docs/app/view/|jsbuilder/src/Parser/|jsbuilder/src/generators/app/templates/|examples/charts/|docs/guides/layouts_and_containers/|docs/guides/accessibility/|examples/dd/|src/core/src/version/|examples/app/feed-viewer/app/view/article/" kind="src" path="extJS402a"/>
+	<classpathentry kind="src" path="extJS402a/build"/>
+	<classpathentry kind="src" path="extJS402a/builds"/>
+	<classpathentry excluding="guides/data/examples/lazy_associations/|guides/direct/|app/view/index/|guides/data/|prettify/|output/|extjs/|guides/components/|guides/forms/|guides/application_architecture/|guides/theming/|guides/tree/|guides/drag_and_drop/|guides/class_system/|guides/grid/|guides/DOM/|guides/getting_started/|app/|app/controller/|guides/data/examples/sorting_grouping_filtering_store/|app/view/search/|guides/data/examples/simple_store/|app/store/|guides/data/examples/model_with_proxy/|app/model/|app/view/tree/|guides/data/examples/associations_validations/|app/view/cls/|guides/tasks_tutorial/|guides/data/examples/inline_data/|guides/drawing_and_charting/|app/view/|guides/layouts_and_containers/|guides/accessibility/" kind="src" path="extJS402a/docs"/>
+	<classpathentry excluding="view/index/|controller/|view/search/|store/|model/|view/tree/|view/cls/|view/" kind="src" path="extJS402a/docs/app"/>
+	<classpathentry kind="src" path="extJS402a/docs/app/controller"/>
+	<classpathentry kind="src" path="extJS402a/docs/app/model"/>
+	<classpathentry kind="src" path="extJS402a/docs/app/store"/>
+	<classpathentry excluding="index/|search/|tree/|cls/" kind="src" path="extJS402a/docs/app/view"/>
+	<classpathentry kind="src" path="extJS402a/docs/app/view/cls"/>
+	<classpathentry kind="src" path="extJS402a/docs/app/view/index"/>
+	<classpathentry kind="src" path="extJS402a/docs/app/view/search"/>
+	<classpathentry kind="src" path="extJS402a/docs/app/view/tree"/>
+	<classpathentry kind="src" path="extJS402a/docs/extjs"/>
+	<classpathentry kind="src" path="extJS402a/docs/guides/accessibility"/>
+	<classpathentry kind="src" path="extJS402a/docs/guides/application_architecture"/>
+	<classpathentry kind="src" path="extJS402a/docs/guides/class_system"/>
+	<classpathentry kind="src" path="extJS402a/docs/guides/components"/>
+	<classpathentry excluding="examples/lazy_associations/|examples/sorting_grouping_filtering_store/|examples/simple_store/|examples/model_with_proxy/|examples/associations_validations/|examples/inline_data/" kind="src" path="extJS402a/docs/guides/data"/>
+	<classpathentry kind="src" path="extJS402a/docs/guides/data/examples/associations_validations"/>
+	<classpathentry kind="src" path="extJS402a/docs/guides/data/examples/inline_data"/>
+	<classpathentry kind="src" path="extJS402a/docs/guides/data/examples/lazy_associations"/>
+	<classpathentry kind="src" path="extJS402a/docs/guides/data/examples/model_with_proxy"/>
+	<classpathentry kind="src" path="extJS402a/docs/guides/data/examples/simple_store"/>
+	<classpathentry kind="src" path="extJS402a/docs/guides/data/examples/sorting_grouping_filtering_store"/>
+	<classpathentry kind="src" path="extJS402a/docs/guides/direct"/>
+	<classpathentry kind="src" path="extJS402a/docs/guides/DOM"/>
+	<classpathentry kind="src" path="extJS402a/docs/guides/drag_and_drop"/>
+	<classpathentry kind="src" path="extJS402a/docs/guides/drawing_and_charting"/>
+	<classpathentry kind="src" path="extJS402a/docs/guides/forms"/>
+	<classpathentry kind="src" path="extJS402a/docs/guides/getting_started"/>
+	<classpathentry kind="src" path="extJS402a/docs/guides/grid"/>
+	<classpathentry kind="src" path="extJS402a/docs/guides/layouts_and_containers"/>
+	<classpathentry kind="src" path="extJS402a/docs/guides/tasks_tutorial"/>
+	<classpathentry kind="src" path="extJS402a/docs/guides/theming"/>
+	<classpathentry kind="src" path="extJS402a/docs/guides/tree"/>
+	<classpathentry kind="src" path="extJS402a/docs/output"/>
+	<classpathentry kind="src" path="extJS402a/docs/prettify"/>
+	<classpathentry excluding="CSVFormatter/|ExcelFormatter/" kind="src" path="extJS402a/edspencer-Ext.ux.Exporter-71e60b8"/>
+	<classpathentry kind="src" path="extJS402a/edspencer-Ext.ux.Exporter-71e60b8/CSVFormatter"/>
+	<classpathentry kind="src" path="extJS402a/edspencer-Ext.ux.Exporter-71e60b8/ExcelFormatter"/>
+	<classpathentry excluding="app/nested-loading/app/model/|ux/event/|platform/|app/feed-viewer/|ux/DataView/|portal/classes/|statusbar/|window/|ux/statusbar/|app/feed-viewer/app/view/|view/multisort/|ux/grid/|app/simple/app/view/user/|app/nested-loading/app/store/|grouptabs/|form/|app/feed-viewer/app/model/|simple-widgets/|resizer/|sandbox/|history/|app/simple/app/model/|menu/|app/feed-viewer/app/controller/|ux/data/|portal/|button/|shared/extjs/|ux/grid/filter/|grid-filtering/|tabs/|qtips/|app/nested-loading/|layout-browser/|desktop/|state/|app/simple/app/controller/|app/nested-loading/app/view/book/|core/|panel/bubble-panel/resources/|ux/grid/menu/|desktop/js/|personel-review/|panel/bubble-panel/|layout-browser/layouts/|component-loader/|restful/|app/simple/app/store/|ux/form/|app/simple/app/view/|view/|grid/|ux/layout/component/form/|layout/|app/feed-viewer/app/store/|app/nested-loading/app/controller/|locale/|ux/layout/|shared/|writer/|message-box/|slider/|toolbar/|feed-viewer/viewer/|panel/|app/nested-loading/app/view/|keynav/|view/chooser/|draw/|app/feed-viewer/app/view/feed/|multiselect/|tree/|direct/|sandbox/js/|themes/|app/nested-loading/app/view/review/|ux/|organizer/|data/|app/feed-viewer/app/lib/|app/simple/|key-feed-viewer/viewer/|charts/|dd/|app/feed-viewer/app/view/article/" kind="src" path="extJS402a/examples"/>
+	<classpathentry excluding="app/view/|app/model/|app/controller/|app/store/|app/view/feed/|app/lib/|app/view/article/" kind="src" path="extJS402a/examples/app/feed-viewer"/>
+	<classpathentry kind="src" path="extJS402a/examples/app/feed-viewer/app/controller"/>
+	<classpathentry kind="src" path="extJS402a/examples/app/feed-viewer/app/lib"/>
+	<classpathentry kind="src" path="extJS402a/examples/app/feed-viewer/app/model"/>
+	<classpathentry kind="src" path="extJS402a/examples/app/feed-viewer/app/store"/>
+	<classpathentry excluding="feed/|article/" kind="src" path="extJS402a/examples/app/feed-viewer/app/view"/>
+	<classpathentry kind="src" path="extJS402a/examples/app/feed-viewer/app/view/article"/>
+	<classpathentry kind="src" path="extJS402a/examples/app/feed-viewer/app/view/feed"/>
+	<classpathentry excluding="app/model/|app/store/|app/view/book/|app/controller/|app/view/|app/view/review/" kind="src" path="extJS402a/examples/app/nested-loading"/>
+	<classpathentry kind="src" path="extJS402a/examples/app/nested-loading/app/controller"/>
+	<classpathentry kind="src" path="extJS402a/examples/app/nested-loading/app/model"/>
+	<classpathentry kind="src" path="extJS402a/examples/app/nested-loading/app/store"/>
+	<classpathentry excluding="book/|review/" kind="src" path="extJS402a/examples/app/nested-loading/app/view"/>
+	<classpathentry kind="src" path="extJS402a/examples/app/nested-loading/app/view/book"/>
+	<classpathentry kind="src" path="extJS402a/examples/app/nested-loading/app/view/review"/>
+	<classpathentry excluding="app/view/user/|app/model/|app/controller/|app/store/|app/view/" kind="src" path="extJS402a/examples/app/simple"/>
+	<classpathentry kind="src" path="extJS402a/examples/app/simple/app/controller"/>
+	<classpathentry kind="src" path="extJS402a/examples/app/simple/app/model"/>
+	<classpathentry kind="src" path="extJS402a/examples/app/simple/app/store"/>
+	<classpathentry excluding="user/" kind="src" path="extJS402a/examples/app/simple/app/view"/>
+	<classpathentry kind="src" path="extJS402a/examples/app/simple/app/view/user"/>
+	<classpathentry kind="src" path="extJS402a/examples/button"/>
+	<classpathentry kind="src" path="extJS402a/examples/charts"/>
+	<classpathentry kind="src" path="extJS402a/examples/component-loader"/>
+	<classpathentry kind="src" path="extJS402a/examples/core"/>
+	<classpathentry kind="src" path="extJS402a/examples/data"/>
+	<classpathentry kind="src" path="extJS402a/examples/dd"/>
+	<classpathentry excluding="js/" kind="src" path="extJS402a/examples/desktop"/>
+	<classpathentry kind="src" path="extJS402a/examples/desktop/js"/>
+	<classpathentry kind="src" path="extJS402a/examples/direct"/>
+	<classpathentry kind="src" path="extJS402a/examples/draw"/>
+	<classpathentry kind="src" path="extJS402a/examples/feed-viewer/viewer"/>
+	<classpathentry kind="src" path="extJS402a/examples/form"/>
+	<classpathentry kind="src" path="extJS402a/examples/grid"/>
+	<classpathentry kind="src" path="extJS402a/examples/grid-filtering"/>
+	<classpathentry kind="src" path="extJS402a/examples/grouptabs"/>
+	<classpathentry kind="src" path="extJS402a/examples/history"/>
+	<classpathentry kind="src" path="extJS402a/examples/key-feed-viewer/viewer"/>
+	<classpathentry kind="src" path="extJS402a/examples/keynav"/>
+	<classpathentry kind="src" path="extJS402a/examples/layout"/>
+	<classpathentry excluding="layouts/" kind="src" path="extJS402a/examples/layout-browser"/>
+	<classpathentry kind="src" path="extJS402a/examples/layout-browser/layouts"/>
+	<classpathentry kind="src" path="extJS402a/examples/locale"/>
+	<classpathentry kind="src" path="extJS402a/examples/menu"/>
+	<classpathentry kind="src" path="extJS402a/examples/message-box"/>
+	<classpathentry kind="src" path="extJS402a/examples/multiselect"/>
+	<classpathentry kind="src" path="extJS402a/examples/organizer"/>
+	<classpathentry excluding="bubble-panel/resources/|bubble-panel/" kind="src" path="extJS402a/examples/panel"/>
+	<classpathentry excluding="resources/" kind="src" path="extJS402a/examples/panel/bubble-panel"/>
+	<classpathentry kind="src" path="extJS402a/examples/panel/bubble-panel/resources"/>
+	<classpathentry kind="src" path="extJS402a/examples/personel-review"/>
+	<classpathentry kind="src" path="extJS402a/examples/platform"/>
+	<classpathentry excluding="classes/" kind="src" path="extJS402a/examples/portal"/>
+	<classpathentry kind="src" path="extJS402a/examples/portal/classes"/>
+	<classpathentry kind="src" path="extJS402a/examples/qtips"/>
+	<classpathentry kind="src" path="extJS402a/examples/resizer"/>
+	<classpathentry kind="src" path="extJS402a/examples/restful"/>
+	<classpathentry excluding="js/" kind="src" path="extJS402a/examples/sandbox"/>
+	<classpathentry kind="src" path="extJS402a/examples/sandbox/js"/>
+	<classpathentry excluding="extjs/" kind="src" path="extJS402a/examples/shared"/>
+	<classpathentry kind="src" path="extJS402a/examples/shared/extjs"/>
+	<classpathentry kind="src" path="extJS402a/examples/simple-widgets"/>
+	<classpathentry kind="src" path="extJS402a/examples/slider"/>
+	<classpathentry kind="src" path="extJS402a/examples/state"/>
+	<classpathentry kind="src" path="extJS402a/examples/statusbar"/>
+	<classpathentry kind="src" path="extJS402a/examples/tabs"/>
+	<classpathentry kind="src" path="extJS402a/examples/themes"/>
+	<classpathentry kind="src" path="extJS402a/examples/toolbar"/>
+	<classpathentry kind="src" path="extJS402a/examples/tree"/>
+	<classpathentry excluding="event/|DataView/|statusbar/|grid/|data/|grid/filter/|grid/menu/|form/|layout/component/form/|layout/" kind="src" path="extJS402a/examples/ux"/>
+	<classpathentry kind="src" path="extJS402a/examples/ux/data"/>
+	<classpathentry kind="src" path="extJS402a/examples/ux/DataView"/>
+	<classpathentry kind="src" path="extJS402a/examples/ux/event"/>
+	<classpathentry kind="src" path="extJS402a/examples/ux/form"/>
+	<classpathentry excluding="filter/|menu/" kind="src" path="extJS402a/examples/ux/grid"/>
+	<classpathentry kind="src" path="extJS402a/examples/ux/grid/filter"/>
+	<classpathentry kind="src" path="extJS402a/examples/ux/grid/menu"/>
+	<classpathentry excluding="component/form/" kind="src" path="extJS402a/examples/ux/layout"/>
+	<classpathentry kind="src" path="extJS402a/examples/ux/layout/component/form"/>
+	<classpathentry kind="src" path="extJS402a/examples/ux/statusbar"/>
+	<classpathentry excluding="multisort/|chooser/" kind="src" path="extJS402a/examples/view"/>
+	<classpathentry kind="src" path="extJS402a/examples/view/chooser"/>
+	<classpathentry kind="src" path="extJS402a/examples/view/multisort"/>
+	<classpathentry kind="src" path="extJS402a/examples/window"/>
+	<classpathentry kind="src" path="extJS402a/examples/writer"/>
+	<classpathentry kind="src" path="extJS402a/jsbuilder/bin"/>
+	<classpathentry excluding="generators/app/files/lib/jasmine/|generators/app/files/lib/JSBuilder/bin/|generators/app/|generators/app/files/app/|generators/controller/templates/|generators/model/templates/|generators/model/|generators/controller/|generators/app/files/lib/sencha-jasmine/matchers/|generators/app/files/lib/sencha-jasmine/|Parser/Statement/|generators/app/files/test/unit/|Parser/|generators/app/templates/" kind="src" path="extJS402a/jsbuilder/src"/>
+	<classpathentry excluding="files/lib/jasmine/|files/lib/JSBuilder/bin/|files/app/|files/lib/sencha-jasmine/matchers/|files/lib/sencha-jasmine/|files/test/unit/|templates/" kind="src" path="extJS402a/jsbuilder/src/generators/app"/>
+	<classpathentry kind="src" path="extJS402a/jsbuilder/src/generators/app/files/app"/>
+	<classpathentry kind="src" path="extJS402a/jsbuilder/src/generators/app/files/lib/jasmine"/>
+	<classpathentry kind="src" path="extJS402a/jsbuilder/src/generators/app/files/lib/JSBuilder/bin"/>
+	<classpathentry excluding="matchers/" kind="src" path="extJS402a/jsbuilder/src/generators/app/files/lib/sencha-jasmine"/>
+	<classpathentry kind="src" path="extJS402a/jsbuilder/src/generators/app/files/lib/sencha-jasmine/matchers"/>
+	<classpathentry kind="src" path="extJS402a/jsbuilder/src/generators/app/files/test/unit"/>
+	<classpathentry kind="src" path="extJS402a/jsbuilder/src/generators/app/templates"/>
+	<classpathentry excluding="templates/" kind="src" path="extJS402a/jsbuilder/src/generators/controller"/>
+	<classpathentry kind="src" path="extJS402a/jsbuilder/src/generators/controller/templates"/>
+	<classpathentry excluding="templates/" kind="src" path="extJS402a/jsbuilder/src/generators/model"/>
+	<classpathentry kind="src" path="extJS402a/jsbuilder/src/generators/model/templates"/>
+	<classpathentry excluding="Statement/" kind="src" path="extJS402a/jsbuilder/src/Parser"/>
+	<classpathentry kind="src" path="extJS402a/jsbuilder/src/Parser/Statement"/>
+	<classpathentry excluding="parser/" kind="src" path="extJS402a/jsbuilder/tests"/>
+	<classpathentry kind="src" path="extJS402a/jsbuilder/tests/parser"/>
+	<classpathentry kind="src" path="extJS402a/locale"/>
+	<classpathentry kind="src" path="extJS402a/pkgs"/>
+	<classpathentry excluding="slider/|core/examples/|picker/|layout/container/|tip/|selection/|fx/target/|form/|grid/header/|grid/column/|core/src/dom/|grid/property/|tree/|core/src/class/|core/src/misc/|chart/axis/|container/|direct/|button/|resizer/|app/|chart/theme/|data/writer/|core/test/unit/spec/version/|core/examples/src/Sample/deadlock/|menu/|core/src/lang/|core/test/unit/spec/dom/|core/examples/src/Sample/ability/|core/src/util/|core/test/unit/spec/lang/|draw/|layout/component/|chart/series/|dd/|window/|grid/|chart/|layout/component/field/|layout/container/boxOverflow/|view/|toolbar/|grid/plugin/|flash/|data/|layout/|core/test/unit/spec/|state/|core/test/unit/resources/|data/reader/|draw/engine/|panel/|form/action/|core/examples/src/Sample/|grid/feature/|core/test/unit/spec/class/|fx/|util/|core/src/|core/examples/src/Sample/notdeadlock/|core/src/env/|form/field/|core/test/unit/spec/util/|core/test/unit/spec/env/|core/test/unit/spec/misc/|tree/plugin/|data/proxy/|tab/|core/src/version/" kind="src" path="extJS402a/src"/>
+	<classpathentry kind="src" path="extJS402a/src/app"/>
+	<classpathentry kind="src" path="extJS402a/src/button"/>
+	<classpathentry excluding="axis/|theme/|series/" kind="src" path="extJS402a/src/chart"/>
+	<classpathentry kind="src" path="extJS402a/src/chart/axis"/>
+	<classpathentry kind="src" path="extJS402a/src/chart/series"/>
+	<classpathentry kind="src" path="extJS402a/src/chart/theme"/>
+	<classpathentry kind="src" path="extJS402a/src/container"/>
+	<classpathentry excluding="src/Sample/deadlock/|src/Sample/ability/|src/Sample/|src/Sample/notdeadlock/" kind="src" path="extJS402a/src/core/examples"/>
+	<classpathentry excluding="deadlock/|ability/|notdeadlock/" kind="src" path="extJS402a/src/core/examples/src/Sample"/>
+	<classpathentry kind="src" path="extJS402a/src/core/examples/src/Sample/ability"/>
+	<classpathentry kind="src" path="extJS402a/src/core/examples/src/Sample/deadlock"/>
+	<classpathentry kind="src" path="extJS402a/src/core/examples/src/Sample/notdeadlock"/>
+	<classpathentry excluding="dom/|class/|misc/|lang/|util/|env/|version/" kind="src" path="extJS402a/src/core/src"/>
+	<classpathentry kind="src" path="extJS402a/src/core/src/class"/>
+	<classpathentry kind="src" path="extJS402a/src/core/src/dom"/>
+	<classpathentry kind="src" path="extJS402a/src/core/src/env"/>
+	<classpathentry kind="src" path="extJS402a/src/core/src/lang"/>
+	<classpathentry kind="src" path="extJS402a/src/core/src/misc"/>
+	<classpathentry kind="src" path="extJS402a/src/core/src/util"/>
+	<classpathentry kind="src" path="extJS402a/src/core/src/version"/>
+	<classpathentry kind="src" path="extJS402a/src/core/test/unit/resources"/>
+	<classpathentry excluding="version/|dom/|lang/|class/|util/|env/|misc/" kind="src" path="extJS402a/src/core/test/unit/spec"/>
+	<classpathentry kind="src" path="extJS402a/src/core/test/unit/spec/class"/>
+	<classpathentry kind="src" path="extJS402a/src/core/test/unit/spec/dom"/>
+	<classpathentry kind="src" path="extJS402a/src/core/test/unit/spec/env"/>
+	<classpathentry kind="src" path="extJS402a/src/core/test/unit/spec/lang"/>
+	<classpathentry kind="src" path="extJS402a/src/core/test/unit/spec/misc"/>
+	<classpathentry kind="src" path="extJS402a/src/core/test/unit/spec/util"/>
+	<classpathentry kind="src" path="extJS402a/src/core/test/unit/spec/version"/>
+	<classpathentry excluding="writer/|reader/|proxy/" kind="src" path="extJS402a/src/data"/>
+	<classpathentry kind="src" path="extJS402a/src/data/proxy"/>
+	<classpathentry kind="src" path="extJS402a/src/data/reader"/>
+	<classpathentry kind="src" path="extJS402a/src/data/writer"/>
+	<classpathentry kind="src" path="extJS402a/src/dd"/>
+	<classpathentry kind="src" path="extJS402a/src/direct"/>
+	<classpathentry excluding="engine/" kind="src" path="extJS402a/src/draw"/>
+	<classpathentry kind="src" path="extJS402a/src/draw/engine"/>
+	<classpathentry kind="src" path="extJS402a/src/flash"/>
+	<classpathentry excluding="action/|field/" kind="src" path="extJS402a/src/form"/>
+	<classpathentry kind="src" path="extJS402a/src/form/action"/>
+	<classpathentry kind="src" path="extJS402a/src/form/field"/>
+	<classpathentry excluding="target/" kind="src" path="extJS402a/src/fx"/>
+	<classpathentry kind="src" path="extJS402a/src/fx/target"/>
+	<classpathentry excluding="header/|column/|property/|plugin/|feature/" kind="src" path="extJS402a/src/grid"/>
+	<classpathentry kind="src" path="extJS402a/src/grid/column"/>
+	<classpathentry kind="src" path="extJS402a/src/grid/feature"/>
+	<classpathentry kind="src" path="extJS402a/src/grid/header"/>
+	<classpathentry kind="src" path="extJS402a/src/grid/plugin"/>
+	<classpathentry kind="src" path="extJS402a/src/grid/property"/>
+	<classpathentry excluding="container/|component/|component/field/|container/boxOverflow/" kind="src" path="extJS402a/src/layout"/>
+	<classpathentry excluding="field/" kind="src" path="extJS402a/src/layout/component"/>
+	<classpathentry kind="src" path="extJS402a/src/layout/component/field"/>
+	<classpathentry excluding="boxOverflow/" kind="src" path="extJS402a/src/layout/container"/>
+	<classpathentry kind="src" path="extJS402a/src/layout/container/boxOverflow"/>
+	<classpathentry kind="src" path="extJS402a/src/menu"/>
+	<classpathentry kind="src" path="extJS402a/src/panel"/>
+	<classpathentry kind="src" path="extJS402a/src/picker"/>
+	<classpathentry kind="src" path="extJS402a/src/resizer"/>
+	<classpathentry kind="src" path="extJS402a/src/selection"/>
+	<classpathentry kind="src" path="extJS402a/src/slider"/>
+	<classpathentry kind="src" path="extJS402a/src/state"/>
+	<classpathentry kind="src" path="extJS402a/src/tab"/>
+	<classpathentry kind="src" path="extJS402a/src/tip"/>
+	<classpathentry kind="src" path="extJS402a/src/toolbar"/>
+	<classpathentry excluding="plugin/" kind="src" path="extJS402a/src/tree"/>
+	<classpathentry kind="src" path="extJS402a/src/tree/plugin"/>
+	<classpathentry kind="src" path="extJS402a/src/util"/>
+	<classpathentry kind="src" path="extJS402a/src/view"/>
+	<classpathentry kind="src" path="extJS402a/src/window"/>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

@@ -1,0 +1,1661 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sql-bi/!svn/ver/177/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE
+END
+bigBoxHeaderBg.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sql-bi/!svn/ver/240/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/bigBoxHeaderBg.png
+END
+SQLBITabbarController.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sql-bi/!svn/ver/304/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/SQLBITabbarController.h
+END
+AFEUIButton.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sql-bi/!svn/ver/72/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEUIButton.m
+END
+SQLBITabbarController.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sql-bi/!svn/ver/202/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/SQLBITabbarController.m
+END
+TopBudgetedAFEDetailedView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sql-bi/!svn/ver/348/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/TopBudgetedAFEDetailedView.xib
+END
+dropDownArrow.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sql-bi/!svn/ver/272/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/dropDownArrow.png
+END
+TopBudgetedAFEDetailedView.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sql-bi/!svn/ver/634/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/TopBudgetedAFEDetailedView.h
+END
+boxBgInvoice.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sql-bi/!svn/ver/219/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/boxBgInvoice.png
+END
+OrganizationSummaryViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sql-bi/!svn/ver/157/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/OrganizationSummaryViewController.xib
+END
+TopBudgetedAFEDetailedView.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sql-bi/!svn/ver/634/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/TopBudgetedAFEDetailedView.m
+END
+TopAFEClassesDetailedView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sql-bi/!svn/ver/487/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/TopAFEClassesDetailedView.xib
+END
+RVBaseHttpHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sql-bi/!svn/ver/348/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/RVBaseHttpHandler.h
+END
+OrganizationSummaryViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sql-bi/!svn/ver/632/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/OrganizationSummaryViewController.h
+END
+RVBaseHttpHandler.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sql-bi/!svn/ver/462/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/RVBaseHttpHandler.m
+END
+OrganizationSummaryViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sql-bi/!svn/ver/635/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/OrganizationSummaryViewController.m
+END
+AFESearchDetailViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sql-bi/!svn/ver/617/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFESearchDetailViewController.xib
+END
+AFEListViewModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sql-bi/!svn/ver/386/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEListViewModel.h
+END
+ReloadTableView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sql-bi/!svn/ver/488/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/ReloadTableView.xib
+END
+ProjectWatchListAFETableView.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sql-bi/!svn/ver/634/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/ProjectWatchListAFETableView.h
+END
+AFEListViewModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sql-bi/!svn/ver/386/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEListViewModel.m
+END
+ProjectWatchListAFETableView.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sql-bi/!svn/ver/634/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/ProjectWatchListAFETableView.m
+END
+SearchViewController_AFE.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sql-bi/!svn/ver/394/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/SearchViewController_AFE.h
+END
+AFEOrganizationDetailsViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sql-bi/!svn/ver/634/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEOrganizationDetailsViewController.xib
+END
+OrganizationSearchAPIHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sql-bi/!svn/ver/385/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/OrganizationSearchAPIHandler.h
+END
+UINavigationController+AFECustom.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sql-bi/!svn/ver/86/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/UINavigationController+AFECustom.h
+END
+SearchViewController_AFE.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sql-bi/!svn/ver/634/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/SearchViewController_AFE.m
+END
+AFESearchInvoiceDetailTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sql-bi/!svn/ver/237/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFESearchInvoiceDetailTableViewCell.h
+END
+WellDetail.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sql-bi/!svn/ver/386/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/WellDetail.h
+END
+OrganizationSearchAPIHandler.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sql-bi/!svn/ver/634/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/OrganizationSearchAPIHandler.m
+END
+UINavigationController+AFECustom.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sql-bi/!svn/ver/202/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/UINavigationController+AFECustom.m
+END
+AFESearchInvoiceDetailTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sql-bi/!svn/ver/512/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFESearchInvoiceDetailTableViewCell.m
+END
+wellDetailsBg@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sql-bi/!svn/ver/238/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/wellDetailsBg@2x.png
+END
+yellowCircle.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sql-bi/!svn/ver/277/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/yellowCircle.png
+END
+BudgetedAFECustomCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sql-bi/!svn/ver/192/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/BudgetedAFECustomCell.h
+END
+WellDetail.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sql-bi/!svn/ver/386/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/WellDetail.m
+END
+AFEDetailsViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sql-bi/!svn/ver/130/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEDetailsViewController.xib
+END
+BudgetedAFECustomCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sql-bi/!svn/ver/520/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/BudgetedAFECustomCell.m
+END
+TopAFEClassesSummaryView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sql-bi/!svn/ver/487/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/TopAFEClassesSummaryView.xib
+END
+Utility.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sql-bi/!svn/ver/634/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/Utility.h
+END
+redCircle@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sql-bi/!svn/ver/277/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/redCircle@2x.png
+END
+TopAFECustomCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sql-bi/!svn/ver/129/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/TopAFECustomCell.xib
+END
+OrganizationType.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sql-bi/!svn/ver/386/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/OrganizationType.h
+END
+SearchViewController_WellSearch.xib
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sql-bi/!svn/ver/582/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/SearchViewController_WellSearch.xib
+END
+Utility.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sql-bi/!svn/ver/634/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/Utility.m
+END
+RVUrlHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sql-bi/!svn/ver/348/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/RVUrlHandler.h
+END
+TopAFECustomCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sql-bi/!svn/ver/129/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/TopAFECustomCell.h
+END
+OrganizationType.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sql-bi/!svn/ver/386/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/OrganizationType.m
+END
+RVUrlHandler.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sql-bi/!svn/ver/634/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/RVUrlHandler.m
+END
+TopAFECustomCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sql-bi/!svn/ver/128/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/TopAFECustomCell.m
+END
+InformationViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sql-bi/!svn/ver/634/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/InformationViewController.xib
+END
+AFEListView.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sql-bi/!svn/ver/393/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEListView.h
+END
+AFEListView.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sql-bi/!svn/ver/388/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEListView.m
+END
+UITabBarItem+AFECustom.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sql-bi/!svn/ver/72/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/UITabBarItem+AFECustom.h
+END
+AFEBurndownChart.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sql-bi/!svn/ver/388/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEBurndownChart.h
+END
+GVUrlHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sql-bi/!svn/ver/234/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/GVUrlHandler.h
+END
+UITabBarItem+AFECustom.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sql-bi/!svn/ver/72/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/UITabBarItem+AFECustom.m
+END
+AFEClassesCustomCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sql-bi/!svn/ver/533/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEClassesCustomCell.xib
+END
+AFEBurndownChart.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sql-bi/!svn/ver/634/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEBurndownChart.m
+END
+AFESearchOverlay1.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sql-bi/!svn/ver/209/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFESearchOverlay1.png
+END
+GVUrlHandler.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sql-bi/!svn/ver/234/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/GVUrlHandler.m
+END
+AFEClassesTableView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sql-bi/!svn/ver/488/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEClassesTableView.xib
+END
+GVAlertMessageHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sql-bi/!svn/ver/348/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/GVAlertMessageHandler.h
+END
+AFEInvoice.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sql-bi/!svn/ver/387/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEInvoice.h
+END
+ViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sql-bi/!svn/ver/168/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/ViewController.xib
+END
+AFESearchBillingCategoryCustomCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sql-bi/!svn/ver/418/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFESearchBillingCategoryCustomCell.h
+END
+AFEsTableView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sql-bi/!svn/ver/546/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEsTableView.xib
+END
+GVAlertMessageHandler.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sql-bi/!svn/ver/348/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/GVAlertMessageHandler.m
+END
+AFEInvoice.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sql-bi/!svn/ver/387/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEInvoice.m
+END
+WellSearchCustomCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sql-bi/!svn/ver/537/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/WellSearchCustomCell.xib
+END
+AFESearchBillingCategoryCustomCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sql-bi/!svn/ver/540/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFESearchBillingCategoryCustomCell.m
+END
+bgHeatMapInner.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sql-bi/!svn/ver/208/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/bgHeatMapInner.png
+END
+AFEsTableView.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sql-bi/!svn/ver/488/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEsTableView.h
+END
+BudgetedAFECustomCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sql-bi/!svn/ver/533/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/BudgetedAFECustomCell.xib
+END
+AFEsTableView.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sql-bi/!svn/ver/634/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEsTableView.m
+END
+WellSearchTableView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sql-bi/!svn/ver/537/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/WellSearchTableView.xib
+END
+AFEConstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sql-bi/!svn/ver/634/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEConstants.h
+END
+bgHeatMapInner@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sql-bi/!svn/ver/208/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/bgHeatMapInner@2x.png
+END
+TreeMapAnimationCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sql-bi/!svn/ver/143/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/TreeMapAnimationCell.h
+END
+OrganizationSearchController.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sql-bi/!svn/ver/488/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/OrganizationSearchController.h
+END
+bgHeatMap@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sql-bi/!svn/ver/208/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/bgHeatMap@2x.png
+END
+AFEDetailsViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sql-bi/!svn/ver/130/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEDetailsViewController.h
+END
+TreeMapAnimationCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sql-bi/!svn/ver/143/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/TreeMapAnimationCell.m
+END
+SQLBI_AFE-Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sql-bi/!svn/ver/234/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/SQLBI_AFE-Prefix.pch
+END
+OrganizationSearchController.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sql-bi/!svn/ver/634/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/OrganizationSearchController.m
+END
+AFEDetailsViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sql-bi/!svn/ver/130/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEDetailsViewController.m
+END
+shareIcon.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sql-bi/!svn/ver/582/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/shareIcon.png
+END
+greenCircle.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sql-bi/!svn/ver/277/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/greenCircle.png
+END
+WellSearchAPIHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sql-bi/!svn/ver/363/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/WellSearchAPIHandler.h
+END
+WellTableBg.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sql-bi/!svn/ver/243/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/WellTableBg.png
+END
+AFEsTableViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sql-bi/!svn/ver/171/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEsTableViewController.h
+END
+WellSearchAPIHandler.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sql-bi/!svn/ver/623/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/WellSearchAPIHandler.m
+END
+actualChartBorder.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sql-bi/!svn/ver/201/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/actualChartBorder.png
+END
+BlueB.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sql-bi/!svn/ver/196/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/BlueB.png
+END
+AFECustomCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sql-bi/!svn/ver/192/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFECustomCell.h
+END
+TreeMapViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sql-bi/!svn/ver/134/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/TreeMapViewController.xib
+END
+AFEsTableViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sql-bi/!svn/ver/171/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEsTableViewController.m
+END
+WellTableBg@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sql-bi/!svn/ver/243/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/WellTableBg@2x.png
+END
+AFECustomCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sql-bi/!svn/ver/224/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFECustomCell.m
+END
+ChartDataPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sql-bi/!svn/ver/563/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/ChartDataPoint.h
+END
+AFEInvoiceBillingCategory.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sql-bi/!svn/ver/515/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEInvoiceBillingCategory.h
+END
+ChartDataPoint.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sql-bi/!svn/ver/563/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/ChartDataPoint.m
+END
+OrangeB.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sql-bi/!svn/ver/196/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/OrangeB.png
+END
+AFESearchBillingCategoryView.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sql-bi/!svn/ver/494/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFESearchBillingCategoryView.h
+END
+AFEInvoiceBillingCategory.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sql-bi/!svn/ver/515/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEInvoiceBillingCategory.m
+END
+AFESearchBillingCategoryView.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sql-bi/!svn/ver/634/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFESearchBillingCategoryView.m
+END
+AFEClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sql-bi/!svn/ver/386/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEClass.h
+END
+AFEClass.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sql-bi/!svn/ver/386/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEClass.m
+END
+redbar.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sql-bi/!svn/ver/289/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/redbar.png
+END
+ProjectWatchlistDetailedView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sql-bi/!svn/ver/223/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/ProjectWatchlistDetailedView.xib
+END
+AFESearchInvoiceDetailView.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sql-bi/!svn/ver/514/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFESearchInvoiceDetailView.h
+END
+bgBarCharInner@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sql-bi/!svn/ver/208/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/bgBarCharInner@2x.png
+END
+AFESearchInvoiceDetailView.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sql-bi/!svn/ver/540/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFESearchInvoiceDetailView.m
+END
+whiteBtn.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sql-bi/!svn/ver/632/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/whiteBtn.png
+END
+WellSearchViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sql-bi/!svn/ver/537/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/WellSearchViewController.xib
+END
+budgetChart.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sql-bi/!svn/ver/201/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/budgetChart.png
+END
+OverlayViewAFETable.xib
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sql-bi/!svn/ver/366/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/OverlayViewAFETable.xib
+END
+whiteBtn@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sql-bi/!svn/ver/632/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/whiteBtn@2x.png
+END
+barChartBG.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sql-bi/!svn/ver/142/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/barChartBG.png
+END
+i@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sql-bi/!svn/ver/623/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/i@2x.png
+END
+AFESearchOverlay2.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sql-bi/!svn/ver/209/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFESearchOverlay2.png
+END
+descendingImage.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sql-bi/!svn/ver/278/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/descendingImage.png
+END
+HeadlineMetricsSummaryView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sql-bi/!svn/ver/462/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/HeadlineMetricsSummaryView.xib
+END
+AFESearchBillingCategoryCustomCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sql-bi/!svn/ver/296/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFESearchBillingCategoryCustomCell.xib
+END
+HeadlineMetricsSummaryView.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sql-bi/!svn/ver/393/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/HeadlineMetricsSummaryView.h
+END
+AFESearchBurnDownGraphView.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sql-bi/!svn/ver/483/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFESearchBurnDownGraphView.h
+END
+HeadlineMetricsSummaryView.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sql-bi/!svn/ver/533/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/HeadlineMetricsSummaryView.m
+END
+wellDetailsBg.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sql-bi/!svn/ver/238/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/wellDetailsBg.png
+END
+AFESearchBurnDownGraphView.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sql-bi/!svn/ver/563/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFESearchBurnDownGraphView.m
+END
+SQLBI_AFE-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sql-bi/!svn/ver/508/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/SQLBI_AFE-Info.plist
+END
+wellBg@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sql-bi/!svn/ver/238/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/wellBg@2x.png
+END
+bgHeatMap.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sql-bi/!svn/ver/208/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/bgHeatMap.png
+END
+TreemapViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sql-bi/!svn/ver/131/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/TreemapViewCell.h
+END
+TopBudgetedAFESummaryView.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sql-bi/!svn/ver/436/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/TopBudgetedAFESummaryView.h
+END
+ascendingImage.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sql-bi/!svn/ver/278/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/ascendingImage.png
+END
+TreemapViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sql-bi/!svn/ver/145/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/TreemapViewCell.m
+END
+SPPrintHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sql-bi/!svn/ver/582/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/SPPrintHandler.h
+END
+AFERootViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sql-bi/!svn/ver/634/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFERootViewController.h
+END
+TopBudgetedAFESummaryView.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sql-bi/!svn/ver/634/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/TopBudgetedAFESummaryView.m
+END
+SPPrintHandler.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sql-bi/!svn/ver/584/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/SPPrintHandler.m
+END
+AFERootViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sql-bi/!svn/ver/635/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFERootViewController.m
+END
+bigBoxHeaderBg@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sql-bi/!svn/ver/240/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/bigBoxHeaderBg@2x.png
+END
+barChartBG@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sql-bi/!svn/ver/142/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/barChartBG@2x.png
+END
+RVAPIRequestInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sql-bi/!svn/ver/348/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/RVAPIRequestInfo.h
+END
+RVAPIRequestInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sql-bi/!svn/ver/348/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/RVAPIRequestInfo.m
+END
+SortingView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sql-bi/!svn/ver/452/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/SortingView.xib
+END
+ProjectWatchlistDetailedView.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sql-bi/!svn/ver/634/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/ProjectWatchlistDetailedView.h
+END
+ProjectWatchlistDetailedView.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sql-bi/!svn/ver/634/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/ProjectWatchlistDetailedView.m
+END
+budgetChartBorder.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sql-bi/!svn/ver/201/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/budgetChartBorder.png
+END
+WellSearchViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sql-bi/!svn/ver/582/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/WellSearchViewController.h
+END
+TreemapView.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sql-bi/!svn/ver/131/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/TreemapView.h
+END
+actualChart.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sql-bi/!svn/ver/201/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/actualChart.png
+END
+AFESearchInvoiceView.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sql-bi/!svn/ver/490/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFESearchInvoiceView.h
+END
+AFE.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sql-bi/!svn/ver/435/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFE.h
+END
+WellSearchViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sql-bi/!svn/ver/635/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/WellSearchViewController.m
+END
+TreemapView.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sql-bi/!svn/ver/432/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/TreemapView.m
+END
+AFESearchInvoiceView.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sql-bi/!svn/ver/510/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFESearchInvoiceView.m
+END
+OverlayViewAFETable.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sql-bi/!svn/ver/462/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/OverlayViewAFETable.h
+END
+AFE.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sql-bi/!svn/ver/634/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFE.m
+END
+ProjectWatchlistSummaryView.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sql-bi/!svn/ver/436/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/ProjectWatchlistSummaryView.h
+END
+WellName.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sql-bi/!svn/ver/386/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/WellName.h
+END
+OverlayViewAFETable.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sql-bi/!svn/ver/488/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/OverlayViewAFETable.m
+END
+AFESearchBillingCategoryView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sql-bi/!svn/ver/357/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFESearchBillingCategoryView.xib
+END
+ProjectWatchlistSummaryView.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sql-bi/!svn/ver/634/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/ProjectWatchlistSummaryView.m
+END
+WellName.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sql-bi/!svn/ver/386/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/WellName.m
+END
+ConnectivityCheck.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sql-bi/!svn/ver/234/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/ConnectivityCheck.h
+END
+WellDetailView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sql-bi/!svn/ver/519/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/WellDetailView.xib
+END
+barGraphBg1.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sql-bi/!svn/ver/208/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/barGraphBg1.png
+END
+ViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sql-bi/!svn/ver/168/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/ViewController.h
+END
+XYPieChart.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sql-bi/!svn/ver/112/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/XYPieChart.h
+END
+ConnectivityCheck.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sql-bi/!svn/ver/234/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/ConnectivityCheck.m
+END
+WellDetailView.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sql-bi/!svn/ver/238/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/WellDetailView.h
+END
+HeadlineMetricsDetailedView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sql-bi/!svn/ver/171/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/HeadlineMetricsDetailedView.xib
+END
+shareIcon@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sql-bi/!svn/ver/582/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/shareIcon@2x.png
+END
+ViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sql-bi/!svn/ver/168/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/ViewController.m
+END
+AFEOrganizationDetailsViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sql-bi/!svn/ver/462/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEOrganizationDetailsViewController.h
+END
+XYPieChart.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sql-bi/!svn/ver/550/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/XYPieChart.m
+END
+WellDetailView.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sql-bi/!svn/ver/537/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/WellDetailView.m
+END
+redCircle.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sql-bi/!svn/ver/277/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/redCircle.png
+END
+AFEOrganizationDetailsViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sql-bi/!svn/ver/634/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEOrganizationDetailsViewController.m
+END
+TopAFEClassesSummaryView.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sql-bi/!svn/ver/436/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/TopAFEClassesSummaryView.h
+END
+TopAFEClassesSummaryView.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sql-bi/!svn/ver/537/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/TopAFEClassesSummaryView.m
+END
+AFEClassesTableViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sql-bi/!svn/ver/133/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEClassesTableViewController.xib
+END
+SearchViewController_WellSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sql-bi/!svn/ver/383/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/SearchViewController_WellSearch.h
+END
+SortingView.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sql-bi/!svn/ver/452/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/SortingView.h
+END
+AFEDetailsSummaryTableView.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sql-bi/!svn/ver/644/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEDetailsSummaryTableView.h
+END
+SearchViewController_WellSearch.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sql-bi/!svn/ver/634/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/SearchViewController_WellSearch.m
+END
+i.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sql-bi/!svn/ver/623/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/i.png
+END
+SortingView.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sql-bi/!svn/ver/462/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/SortingView.m
+END
+AFEDetailsSummaryTableView.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sql-bi/!svn/ver/644/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEDetailsSummaryTableView.m
+END
+ProjectWatchListAFECustomCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sql-bi/!svn/ver/518/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/ProjectWatchListAFECustomCell.xib
+END
+ProjectWatchlistSummaryView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sql-bi/!svn/ver/291/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/ProjectWatchlistSummaryView.xib
+END
+yellowbar.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sql-bi/!svn/ver/289/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/yellowbar.png
+END
+buttonHoverBg@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sql-bi/!svn/ver/582/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/buttonHoverBg@2x.png
+END
+ReloadInTableView.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sql-bi/!svn/ver/488/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/ReloadInTableView.h
+END
+AFESearchLeftBg.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sql-bi/!svn/ver/240/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFESearchLeftBg.png
+END
+KPIModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sql-bi/!svn/ver/385/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/KPIModel.h
+END
+ReloadInTableView.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sql-bi/!svn/ver/488/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/ReloadInTableView.m
+END
+AllAFEs.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sql-bi/!svn/ver/386/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AllAFEs.h
+END
+AFESearchAPIHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sql-bi/!svn/ver/389/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFESearchAPIHandler.h
+END
+KPIModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sql-bi/!svn/ver/385/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/KPIModel.m
+END
+AppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sql-bi/!svn/ver/623/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AppDelegate.h
+END
+PrintANDMailViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sql-bi/!svn/ver/635/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/PrintANDMailViewController.xib
+END
+AllAFEs.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sql-bi/!svn/ver/396/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AllAFEs.m
+END
+AFESearchAPIHandler.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sql-bi/!svn/ver/508/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFESearchAPIHandler.m
+END
+AppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sql-bi/!svn/ver/634/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AppDelegate.m
+END
+PrintANDMailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sql-bi/!svn/ver/582/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/PrintANDMailViewController.h
+END
+TopBudgetedAFESummaryView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sql-bi/!svn/ver/348/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/TopBudgetedAFESummaryView.xib
+END
+PrintANDMailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sql-bi/!svn/ver/635/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/PrintANDMailViewController.m
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sql-bi/!svn/ver/72/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/main.m
+END
+BudgetedAFETableView.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sql-bi/!svn/ver/634/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/BudgetedAFETableView.h
+END
+BudgetedAFETableView.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sql-bi/!svn/ver/634/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/BudgetedAFETableView.m
+END
+AFESearchInvoiceDetailView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sql-bi/!svn/ver/512/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFESearchInvoiceDetailView.xib
+END
+AFEsTableViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sql-bi/!svn/ver/150/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEsTableViewController.xib
+END
+AFEClassesTableViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sql-bi/!svn/ver/133/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEClassesTableViewController.h
+END
+buttonBg.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sql-bi/!svn/ver/582/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/buttonBg.png
+END
+TopAFEClassesDetailedView.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sql-bi/!svn/ver/634/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/TopAFEClassesDetailedView.h
+END
+InformationViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sql-bi/!svn/ver/621/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/InformationViewController.h
+END
+AFEClassesTableViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sql-bi/!svn/ver/133/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEClassesTableViewController.m
+END
+TopAFEClassesDetailedView.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sql-bi/!svn/ver/634/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/TopAFEClassesDetailedView.m
+END
+InformationViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sql-bi/!svn/ver/621/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/InformationViewController.m
+END
+buttonBg@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sql-bi/!svn/ver/582/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/buttonBg@2x.png
+END
+newTableRowBg.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sql-bi/!svn/ver/242/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/newTableRowBg.png
+END
+ProjectWatchListAFECustomCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sql-bi/!svn/ver/192/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/ProjectWatchListAFECustomCell.h
+END
+AFESearchDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sql-bi/!svn/ver/534/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFESearchDetailViewController.h
+END
+AFEClassesCustomCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sql-bi/!svn/ver/224/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEClassesCustomCell.h
+END
+bgBarCharInner.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sql-bi/!svn/ver/208/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/bgBarCharInner.png
+END
+yellowCircle@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sql-bi/!svn/ver/277/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/yellowCircle@2x.png
+END
+ProjectWatchListAFECustomCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sql-bi/!svn/ver/517/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/ProjectWatchListAFECustomCell.m
+END
+AFESearchDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sql-bi/!svn/ver/643/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFESearchDetailViewController.m
+END
+AFEClassesCustomCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sql-bi/!svn/ver/533/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEClassesCustomCell.m
+END
+SearchViewController_AFE.xib
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sql-bi/!svn/ver/405/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/SearchViewController_AFE.xib
+END
+AFESearchViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sql-bi/!svn/ver/633/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFESearchViewController.xib
+END
+AFEClassesTableView.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sql-bi/!svn/ver/634/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEClassesTableView.h
+END
+AFEClassesTableView.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sql-bi/!svn/ver/634/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEClassesTableView.m
+END
+WellSearchCustomCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sql-bi/!svn/ver/519/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/WellSearchCustomCell.h
+END
+HeadlineMetricsDetailedView.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sql-bi/!svn/ver/208/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/HeadlineMetricsDetailedView.h
+END
+barGraphBg1@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sql-bi/!svn/ver/208/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/barGraphBg1@2x.png
+END
+OrganizationSearchController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sql-bi/!svn/ver/220/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/OrganizationSearchController.xib
+END
+AFEBurnDownItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sql-bi/!svn/ver/376/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEBurnDownItem.h
+END
+WellSearchCustomCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sql-bi/!svn/ver/537/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/WellSearchCustomCell.m
+END
+AFESearchCustomDetailViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sql-bi/!svn/ver/258/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFESearchCustomDetailViewCell.h
+END
+HeadlineMetricsDetailedView.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sql-bi/!svn/ver/208/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/HeadlineMetricsDetailedView.m
+END
+AFESearchCustomTableViewInvoiceCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sql-bi/!svn/ver/418/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFESearchCustomTableViewInvoiceCell.h
+END
+WellSearchTableView.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sql-bi/!svn/ver/600/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/WellSearchTableView.h
+END
+BudgetedAFETableView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sql-bi/!svn/ver/533/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/BudgetedAFETableView.xib
+END
+AFEBurnDownItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sql-bi/!svn/ver/429/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEBurnDownItem.m
+END
+AFESearchCustomDetailViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sql-bi/!svn/ver/532/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFESearchCustomDetailViewCell.m
+END
+AFESearchCustomTableViewInvoiceCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sql-bi/!svn/ver/540/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFESearchCustomTableViewInvoiceCell.m
+END
+WellSearchTableView.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sql-bi/!svn/ver/634/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/WellSearchTableView.m
+END
+bluebar.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sql-bi/!svn/ver/289/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/bluebar.png
+END
+shareIconHover.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sql-bi/!svn/ver/582/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/shareIconHover.png
+END
+AFESearchLeftBg@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sql-bi/!svn/ver/240/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFESearchLeftBg@2x.png
+END
+AFECustomCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sql-bi/!svn/ver/546/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFECustomCell.xib
+END
+AFEBaseViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sql-bi/!svn/ver/130/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEBaseViewController.h
+END
+buttonHoverBg.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sql-bi/!svn/ver/582/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/buttonHoverBg.png
+END
+greenCircle@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sql-bi/!svn/ver/277/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/greenCircle@2x.png
+END
+AFEBaseViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sql-bi/!svn/ver/634/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEBaseViewController.m
+END
+OverlayAFETableView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sql-bi/!svn/ver/224/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/OverlayAFETableView.xib
+END
+TreeMapViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sql-bi/!svn/ver/145/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/TreeMapViewController.h
+END
+TreeMapViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sql-bi/!svn/ver/152/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/TreeMapViewController.m
+END
+ProjectWatchListAFETableView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sql-bi/!svn/ver/634/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/ProjectWatchListAFETableView.xib
+END
+Organization.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sql-bi/!svn/ver/386/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/Organization.h
+END
+wellBg.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sql-bi/!svn/ver/238/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/wellBg.png
+END
+Organization.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sql-bi/!svn/ver/386/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/Organization.m
+END
+AFEBurnDown.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sql-bi/!svn/ver/94/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEBurnDown.h
+END
+RVBaseAPIHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sql-bi/!svn/ver/516/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/RVBaseAPIHandler.h
+END
+RVAPIConstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sql-bi/!svn/ver/516/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/RVAPIConstants.h
+END
+AFEBurnDown.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sql-bi/!svn/ver/94/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEBurnDown.m
+END
+RVBaseAPIHandler.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sql-bi/!svn/ver/634/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/RVBaseAPIHandler.m
+END
+AFESearchViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sql-bi/!svn/ver/582/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFESearchViewController.h
+END
+AFEObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sql-bi/!svn/ver/94/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEObject.h
+END
+RVAPIConstants.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sql-bi/!svn/ver/348/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/RVAPIConstants.m
+END
+AFESearchViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sql-bi/!svn/ver/635/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFESearchViewController.m
+END
+AFEUIButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sql-bi/!svn/ver/72/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEUIButton.h
+END
+shareIconHover@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sql-bi/!svn/ver/582/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/shareIconHover@2x.png
+END
+AFEObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sql-bi/!svn/ver/94/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/AFEObject.m
+END

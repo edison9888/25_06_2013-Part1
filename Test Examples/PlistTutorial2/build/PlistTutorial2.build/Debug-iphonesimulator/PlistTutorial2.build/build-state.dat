@@ -1,0 +1,324 @@
+TPlistTutorial2
+v7
+r0
+t332701069.289849
+cCheck dependencies
+cProcessInfoPlistFile "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator/PlistTutorial2.app/Info.plist" PlistTutorial2-Info.plist
+cCompileXIB "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/MainWindow.xib"
+cCompileXIB "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/SecondView.xib"
+cCompileXIB "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/FirstView.xib"
+cProcessPCH /var/folders/Jr/Jrh8ccLUFamcI01jaBsmgU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PlistTutorial2_Prefix-bwjykwdzreznefgbohxzvhbptqka/PlistTutorial2_Prefix.pch.gch PlistTutorial2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/Objects-normal/i386/main.o "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/Objects-normal/i386/PlistTutorial2AppDelegate.o "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/Classes/PlistTutorial2AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/Objects-normal/i386/FirstViewController.o "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/Classes/FirstViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/Objects-normal/i386/SecondViewController.o "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/Classes/SecondViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator/PlistTutorial2.app/PlistTutorial2" normal i386
+cGenerateDSYMFile "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator/PlistTutorial2.app.dSYM" "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator/PlistTutorial2.app/PlistTutorial2"
+cTouch "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator/PlistTutorial2.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/Classes/FirstViewController.h
+c000000004E245C4C00000000000002D4
+t1311005772
+s724
+i<UIKit/UIKit.h>
+
+N/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/Classes/FirstViewController.m
+c000000004E245E54000000000000065A
+t1311006292
+s1626
+i"FirstViewController.h"
+
+N/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/Classes/PlistTutorial2AppDelegate.h
+c000000004E2453DC00000000000001ED
+t1311003612
+s493
+i<UIKit/UIKit.h>
+
+N/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/Classes/PlistTutorial2AppDelegate.m
+c000000004E2453DC0000000000000C5A
+t1311003612
+s3162
+i"PlistTutorial2AppDelegate.h"
+
+N/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/Classes/SecondViewController.h
+c000000004E2463A20000000000000163
+t1311007650
+s355
+i<UIKit/UIKit.h>
+
+N/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/Classes/SecondViewController.m
+c000000004E24663A0000000000000A78
+t1311008314
+s2680
+i"SecondViewController.h"
+
+N/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/Classes/untitled.h
+c000000004E2454D400000000000000DF
+t1311003860
+s223
+i<UIKit/UIKit.h>
+
+N/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/Classes/untitled.m
+c000000004E2454D4000000000000129D
+t1311003860
+s4765
+i"untitled.h"
+
+N/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/FirstView.xib
+c000000004E245FF4000000000000838D
+t1311006708
+s33677
+
+N/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/MainWindow.xib
+c000000004E24556A000000000000676A
+t1311004010
+s26474
+
+N/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/PlistTutorial2_Prefix.pch
+c000000004E2453DC00000000000000C5
+t1311003612
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/SecondView.xib
+c000000004E2463CC00000000000048FF
+t1311007692
+s18687
+
+N/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator/PlistTutorial2.app
+t1311008242
+s2048
+
+N/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator/PlistTutorial2.app.dSYM
+t1311008242
+s2048
+
+N/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator/PlistTutorial2.app/FirstView.nib
+t1311006710
+s2861
+
+N/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator/PlistTutorial2.app/Info.plist
+t1311003922
+s619
+
+N/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator/PlistTutorial2.app/MainWindow.nib
+t1311004012
+s1720
+
+N/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator/PlistTutorial2.app/PkgInfo
+t1311003924
+s8
+
+N/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator/PlistTutorial2.app/PlistTutorial2
+t1311008242
+s26716
+
+N/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator/PlistTutorial2.app/SecondView.nib
+t1311007698
+s1150
+
+N/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/Objects-normal/i386/FirstViewController.o
+t1311006554
+s47960
+
+N/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/Objects-normal/i386/PlistTutorial2.LinkFileList
+c000000004E24551200000000000002D0
+t1311003922
+s720
+
+N/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/Objects-normal/i386/PlistTutorial2AppDelegate.o
+t1311004012
+s54780
+
+N/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/Objects-normal/i386/SecondViewController.o
+t1311008242
+s45860
+
+N/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/Objects-normal/i386/main.o
+t1311004012
+s6364
+
+N/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/Objects-normal/i386/untitled.o
+t2
+s0
+
+N/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/main.m
+c000000004E2453DC000000000000016B
+t1311003612
+s363
+i<UIKit/UIKit.h>
+
+N/var/folders/Jr/Jrh8ccLUFamcI01jaBsmgU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PlistTutorial2_Prefix-bwjykwdzreznefgbohxzvhbptqka/PlistTutorial2_Prefix.pch.gch
+t1311003925
+s15453392
+
+NPlistTutorial2-Info.plist
+c000000004E2453DC000000000000038D
+t1311003612
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies332701069#332701069#0(0"0(0#1#0"8616692928#0"0#
+
+CCompileC build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/Objects-normal/i386/FirstViewController.o "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/Classes/FirstViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s332699355.755194
+e332699355.998787
+r1
+xCompileC
+xbuild/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/Objects-normal/i386/FirstViewController.o
+x/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/Classes/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/Classes/FirstViewController.m332699355#332699355#0(0"0(0#0#99"/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/Classes/FirstViewController.m8624185152#2455"    cd "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/PlistTutorial2-generated-files.hmap" "-I/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/PlistTutorial2-own-target-headers.hmap" "-I/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/PlistTutorial2-all-target-headers.hmap" -iquote "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/PlistTutorial2-project-headers.hmap" "-F/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator" "-I/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator/include" "-I/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/DerivedSources/i386" "-I/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/DerivedSources" -include /var/folders/Jr/Jrh8ccLUFamcI01jaBsmgU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PlistTutorial2_Prefix-bwjykwdzreznefgbohxzvhbptqka/PlistTutorial2_Prefix.pch -c "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/Classes/FirstViewController.m" -o "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/Objects-normal/i386/FirstViewController.o"0#
+
+CCompileC build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/Objects-normal/i386/PlistTutorial2AppDelegate.o "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/Classes/PlistTutorial2AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s332696812.922027
+e332696813.125933
+r1
+xCompileC
+xbuild/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/Objects-normal/i386/PlistTutorial2AppDelegate.o
+x/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/Classes/PlistTutorial2AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/Classes/PlistTutorial2AppDelegate.m332696812#332696813#0(0"0(0#0#105"/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/Classes/PlistTutorial2AppDelegate.m8622963520#2467"    cd "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/PlistTutorial2-generated-files.hmap" "-I/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/PlistTutorial2-own-target-headers.hmap" "-I/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/PlistTutorial2-all-target-headers.hmap" -iquote "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/PlistTutorial2-project-headers.hmap" "-F/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator" "-I/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator/include" "-I/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/DerivedSources/i386" "-I/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/DerivedSources" -include /var/folders/Jr/Jrh8ccLUFamcI01jaBsmgU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PlistTutorial2_Prefix-bwjykwdzreznefgbohxzvhbptqka/PlistTutorial2_Prefix.pch -c "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/Classes/PlistTutorial2AppDelegate.m" -o "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/Objects-normal/i386/PlistTutorial2AppDelegate.o"0#
+
+CCompileC build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/Objects-normal/i386/SecondViewController.o "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/Classes/SecondViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s332701042.963133
+e332701043.199975
+r1
+xCompileC
+xbuild/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/Objects-normal/i386/SecondViewController.o
+x/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/Classes/SecondViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/Classes/SecondViewController.m: In function '-[SecondViewController tableView:cellForRowAtIndexPath:]':
+o/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/Classes/SecondViewController.m:58: warning: local declaration of 'tableView' hides instance variable
+lSLF07#2@108"Compile /Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/Classes/SecondViewController.m332701042#332701043#0(345"/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/Classes/SecondViewController.m: In function '-[SecondViewController tableView:cellForRowAtIndexPath:]':/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/Classes/SecondViewController.m:58: warning: local declaration of 'tableView' hides instance variable1(22@56"Local declaration of 'tableView' hides instance variable332701043#174#171#0(6@100"/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/Classes/SecondViewController.m332701042#58#0#58#0#0"0(0#0#100"/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/Classes/SecondViewController.m8623196320#2457"    cd "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/PlistTutorial2-generated-files.hmap" "-I/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/PlistTutorial2-own-target-headers.hmap" "-I/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/PlistTutorial2-all-target-headers.hmap" -iquote "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/PlistTutorial2-project-headers.hmap" "-F/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator" "-I/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator/include" "-I/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/DerivedSources/i386" "-I/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/DerivedSources" -include /var/folders/Jr/Jrh8ccLUFamcI01jaBsmgU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PlistTutorial2_Prefix-bwjykwdzreznefgbohxzvhbptqka/PlistTutorial2_Prefix.pch -c "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/Classes/SecondViewController.m" -o "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/Objects-normal/i386/SecondViewController.o"0#
+
+CCompileC build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/Objects-normal/i386/main.o "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s332696812.921321
+e332696812.961839
+r1
+xCompileC
+xbuild/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/Objects-normal/i386/main.o
+x/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/main.m332696812#332696812#0(0"0(0#0#76"/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/main.m8623245152#2417"    cd "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/PlistTutorial2-generated-files.hmap" "-I/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/PlistTutorial2-own-target-headers.hmap" "-I/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/PlistTutorial2-all-target-headers.hmap" -iquote "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/PlistTutorial2-project-headers.hmap" "-F/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator" "-I/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator/include" "-I/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/DerivedSources/i386" "-I/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/DerivedSources" -include /var/folders/Jr/Jrh8ccLUFamcI01jaBsmgU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PlistTutorial2_Prefix-bwjykwdzreznefgbohxzvhbptqka/PlistTutorial2_Prefix.pch -c "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/main.m" -o "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/Objects-normal/i386/untitled.o "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/Classes/untitled.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/FirstView.xib"
+s332699511.412273
+e332699511.788373
+r1
+xCompileXIB
+x/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/FirstView.xib
+lSLF07#2@24"CompileXIB FirstView.xib332699511#332699511#0(0"0(0#0#83"/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/FirstView.xib8626557600#674"    cd "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator/PlistTutorial2.app/FirstView.nib" "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/FirstView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/MainWindow.xib"
+s332696812.576860
+e332696812.921163
+r1
+xCompileXIB
+x/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib332696812#332696812#0(0"0(0#0#84"/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/MainWindow.xib8614225792#676"    cd "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator/PlistTutorial2.app/MainWindow.nib" "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/SecondView.xib"
+s332700499.559188
+e332700499.956015
+r1
+xCompileXIB
+x/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/SecondView.xib
+lSLF07#2@25"CompileXIB SecondView.xib332700499#332700499#0(0"0(0#0#84"/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/SecondView.xib8624887680#676"    cd "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator/PlistTutorial2.app/SecondView.nib" "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/SecondView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator/PlistTutorial2.app.dSYM" "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator/PlistTutorial2.app/PlistTutorial2"
+s332701043.291336
+e332701043.323217
+r1
+xGenerateDSYMFile
+x/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator/PlistTutorial2.app.dSYM
+x/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator/PlistTutorial2.app/PlistTutorial2
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/PlistTutorial2.app.dSYM build/Debug-iphonesimulator/PlistTutorial2.app/PlistTutorial2332701043#332701043#0(0"0(0#0#131"/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator/PlistTutorial2.app/PlistTutorial28623453952#503"    cd "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator/PlistTutorial2.app/PlistTutorial2" -o "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator/PlistTutorial2.app.dSYM"0#
+
+CLd "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator/PlistTutorial2.app/PlistTutorial2" normal i386
+s332701043.200041
+e332701043.291247
+r1
+xLd
+x/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator/PlistTutorial2.app/PlistTutorial2
+xnormal
+xi386
+lSLF07#2@136"Link /Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator/PlistTutorial2.app/PlistTutorial2332701043#332701043#0(0"0(0#0#0"8625154368#1100"    cd "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator" "-F/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator" -filelist "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/Objects-normal/i386/PlistTutorial2.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator/PlistTutorial2.app/PlistTutorial2"0#
+
+CProcessInfoPlistFile "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator/PlistTutorial2.app/Info.plist" PlistTutorial2-Info.plist
+s332696723.795441
+e332696724.067567
+r1
+xProcessInfoPlistFile
+x/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator/PlistTutorial2.app/Info.plist
+xPlistTutorial2-Info.plist
+lSLF07#2@33"Process PlistTutorial2-Info.plist332696723#332696724#0(0"0(0#0#95"/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/PlistTutorial2-Info.plist8617650304#599"    cd "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility PlistTutorial2-Info.plist -genpkginfo "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator/PlistTutorial2.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator/PlistTutorial2.app/Info.plist"0#
+
+CProcessPCH /var/folders/Jr/Jrh8ccLUFamcI01jaBsmgU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PlistTutorial2_Prefix-bwjykwdzreznefgbohxzvhbptqka/PlistTutorial2_Prefix.pch.gch PlistTutorial2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s332696724.983722
+e332696725.584467
+r1
+xProcessPCH
+x/var/folders/Jr/Jrh8ccLUFamcI01jaBsmgU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PlistTutorial2_Prefix-bwjykwdzreznefgbohxzvhbptqka/PlistTutorial2_Prefix.pch.gch
+xPlistTutorial2_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile PlistTutorial2_Prefix.pch332696724#332696725#0(0"0(0#0#95"/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/PlistTutorial2_Prefix.pch8603203392#2269"    cd "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/PlistTutorial2-generated-files.hmap" "-I/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/PlistTutorial2-own-target-headers.hmap" "-I/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/PlistTutorial2-all-target-headers.hmap" -iquote "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/PlistTutorial2-project-headers.hmap" "-F/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator" "-I/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator/include" "-I/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/DerivedSources/i386" "-I/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/PlistTutorial2.build/Debug-iphonesimulator/PlistTutorial2.build/DerivedSources" -c "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/PlistTutorial2_Prefix.pch" -o /var/folders/Jr/Jrh8ccLUFamcI01jaBsmgU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PlistTutorial2_Prefix-bwjykwdzreznefgbohxzvhbptqka/PlistTutorial2_Prefix.pch.gch0#
+
+CTouch "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator/PlistTutorial2.app"
+s332701043.323277
+e332701043.324939
+r1
+xTouch
+x/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator/PlistTutorial2.app
+lSLF07#2@122"Touch /Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator/PlistTutorial2.app332701043#332701043#0(0"0(0#0#0"8624137664#351"    cd "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/build/Debug-iphonesimulator/PlistTutorial2.app"0#
+

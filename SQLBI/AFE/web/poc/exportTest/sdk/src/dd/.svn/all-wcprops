@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/dd
+END
+StatusProxy.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/dd/StatusProxy.js
+END
+DD.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/dd/DD.js
+END
+Registry.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/dd/Registry.js
+END
+DDProxy.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/dd/DDProxy.js
+END
+DragTracker.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/dd/DragTracker.js
+END
+DragZone.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/dd/DragZone.js
+END
+ScrollManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/dd/ScrollManager.js
+END
+DropTarget.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/dd/DropTarget.js
+END
+DragDropManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/dd/DragDropManager.js
+END
+DDTarget.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/dd/DDTarget.js
+END
+DragSource.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/dd/DragSource.js
+END
+DropZone.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/dd/DropZone.js
+END
+DragDrop.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/dd/DragDrop.js
+END

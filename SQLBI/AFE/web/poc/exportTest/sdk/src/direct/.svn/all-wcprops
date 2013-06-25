@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/direct
+END
+JsonProvider.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/direct/JsonProvider.js
+END
+RemotingMethod.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/direct/RemotingMethod.js
+END
+Transaction.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/direct/Transaction.js
+END
+RemotingEvent.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/direct/RemotingEvent.js
+END
+Manager.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/direct/Manager.js
+END
+Provider.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/direct/Provider.js
+END
+PollingProvider.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/direct/PollingProvider.js
+END
+RemotingProvider.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/direct/RemotingProvider.js
+END
+ExceptionEvent.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/direct/ExceptionEvent.js
+END
+Event.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/direct/Event.js
+END

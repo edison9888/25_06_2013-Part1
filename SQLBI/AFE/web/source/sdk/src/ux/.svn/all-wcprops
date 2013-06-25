@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/sql-bi/!svn/ver/173/trunk/AFE/web/source/sdk/src/ux
+END
+GMapPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sql-bi/!svn/ver/173/trunk/AFE/web/source/sdk/src/ux/GMapPanel.js
+END
+SlidingPager.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sql-bi/!svn/ver/173/trunk/AFE/web/source/sdk/src/ux/SlidingPager.js
+END
+ProgressBarPager.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sql-bi/!svn/ver/173/trunk/AFE/web/source/sdk/src/ux/ProgressBarPager.js
+END
+FieldReplicator.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sql-bi/!svn/ver/173/trunk/AFE/web/source/sdk/src/ux/FieldReplicator.js
+END
+LiveSearchGridPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sql-bi/!svn/ver/173/trunk/AFE/web/source/sdk/src/ux/LiveSearchGridPanel.js
+END
+Spotlight.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sql-bi/!svn/ver/173/trunk/AFE/web/source/sdk/src/ux/Spotlight.js
+END
+DataViewTransition.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sql-bi/!svn/ver/173/trunk/AFE/web/source/sdk/src/ux/DataViewTransition.js
+END
+TabReorderer.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sql-bi/!svn/ver/173/trunk/AFE/web/source/sdk/src/ux/TabReorderer.js
+END
+TabCloseMenu.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sql-bi/!svn/ver/173/trunk/AFE/web/source/sdk/src/ux/TabCloseMenu.js
+END
+ToolbarDroppable.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sql-bi/!svn/ver/173/trunk/AFE/web/source/sdk/src/ux/ToolbarDroppable.js
+END
+CheckColumn.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sql-bi/!svn/ver/173/trunk/AFE/web/source/sdk/src/ux/CheckColumn.js
+END
+TreePicker.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sql-bi/!svn/ver/173/trunk/AFE/web/source/sdk/src/ux/TreePicker.js
+END
+RowExpander.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sql-bi/!svn/ver/173/trunk/AFE/web/source/sdk/src/ux/RowExpander.js
+END
+PreviewPlugin.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sql-bi/!svn/ver/173/trunk/AFE/web/source/sdk/src/ux/PreviewPlugin.js
+END
+TabScrollerMenu.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sql-bi/!svn/ver/173/trunk/AFE/web/source/sdk/src/ux/TabScrollerMenu.js
+END
+BoxReorderer.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sql-bi/!svn/ver/173/trunk/AFE/web/source/sdk/src/ux/BoxReorderer.js
+END
+IFrame.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sql-bi/!svn/ver/173/trunk/AFE/web/source/sdk/src/ux/IFrame.js
+END
+GroupTabPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sql-bi/!svn/ver/173/trunk/AFE/web/source/sdk/src/ux/GroupTabPanel.js
+END

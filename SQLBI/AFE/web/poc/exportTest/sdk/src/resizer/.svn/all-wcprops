@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/resizer
+END
+BorderSplitter.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/resizer/BorderSplitter.js
+END
+Splitter.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/resizer/Splitter.js
+END
+Handle.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/resizer/Handle.js
+END
+ResizeTracker.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/resizer/ResizeTracker.js
+END
+BorderSplitterTracker.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/resizer/BorderSplitterTracker.js
+END
+SplitterTracker.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/resizer/SplitterTracker.js
+END
+Resizer.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/resizer/Resizer.js
+END

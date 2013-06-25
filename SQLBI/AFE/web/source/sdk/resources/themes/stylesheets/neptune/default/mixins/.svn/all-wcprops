@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/resources/themes/stylesheets/neptune/default/mixins
+END
+_inner-border.scss
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/resources/themes/stylesheets/neptune/default/mixins/_inner-border.scss
+END
+_reset-extras.scss
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/resources/themes/stylesheets/neptune/default/mixins/_reset-extras.scss
+END
+_frame.scss
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/resources/themes/stylesheets/neptune/default/mixins/_frame.scss
+END
+_background-gradient-legacy.scss
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/resources/themes/stylesheets/neptune/default/mixins/_background-gradient-legacy.scss
+END
+_theme-background-image.scss
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/resources/themes/stylesheets/neptune/default/mixins/_theme-background-image.scss
+END

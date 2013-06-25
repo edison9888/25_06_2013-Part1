@@ -1,0 +1,16 @@
+
+
+{
+    "AFECount": 12000,
+    "AvgAFEBudget": 1000,
+    "AvgAFEBudgetASsStr": "1000.00",
+    "AvgAFEDuration": 100,
+    "TotalActuals": 1234,
+    "TotalActualsAsStr": "1234",
+    "TotalActualsPercent": 0.1,
+    "TotalBudget": 120000,
+    "TotalBudgetAsStr": "120000",
+    "TotalFieldEst": 143000,
+    "TotalFieldEstAsStr": "143000",
+    "TotalFieldEstPercent": 0.2
+}

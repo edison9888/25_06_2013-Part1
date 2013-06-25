@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/selection
+END
+DataViewModel.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/selection/DataViewModel.js
+END
+CheckboxModel.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/selection/CheckboxModel.js
+END
+RowModel.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/selection/RowModel.js
+END
+CellModel.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/selection/CellModel.js
+END
+Model.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/selection/Model.js
+END
+TreeModel.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/selection/TreeModel.js
+END

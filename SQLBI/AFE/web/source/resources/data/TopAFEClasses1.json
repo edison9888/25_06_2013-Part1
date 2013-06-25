@@ -1,0 +1,7 @@
+[
+    {"AFEClassID":0,"AFEClassName":"AFEClass0","AFECount":500,"Budget":100000,"BudgetAsStr":"100000","TotActuals":2220,"TotalActualsAsStr":"2220","FieldEstimate":5000},
+    {"AFEClassID":1,"AFEClassName":"AFEClass1","AFECount":200,"Budget":200000,"BudgetAsStr":"200000","TotActuals":113220,"TotalActualsAsStr":"113220","FieldEstimate":10000},
+    {"AFEClassID":2,"AFEClassName":"AFEClass2","AFECount":300,"Budget":300000,"BudgetAsStr":"300000","TotActuals":224220,"TotalActualsAsStr":"224220","FieldEstimate":20000},
+    {"AFEClassID":3,"AFEClassName":"AFEClass3","AFECount":400,"Budget":400000,"BudgetAsStr":"400000","TotActuals":335220,"TotalActualsAsStr":"335220","FieldEstimate":30000},
+    {"AFEClassID":4,"AFEClassName":"AFEClass4","AFECount":100,"Budget":500000,"BudgetAsStr":"500000","TotActuals":446219.99999999994,"TotalActualsAsStr":"446220","FieldEstimate":40000}
+]

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/form
+END
+FieldContainer.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/form/FieldContainer.js
+END
+RadioManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/form/RadioManager.js
+END
+RadioGroup.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/form/RadioGroup.js
+END
+FieldSet.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/form/FieldSet.js
+END
+Label.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/form/Label.js
+END
+Panel.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/form/Panel.js
+END
+Basic.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/form/Basic.js
+END
+CheckboxManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/form/CheckboxManager.js
+END
+FieldAncestor.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/form/FieldAncestor.js
+END
+CheckboxGroup.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/form/CheckboxGroup.js
+END
+Labelable.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/form/Labelable.js
+END

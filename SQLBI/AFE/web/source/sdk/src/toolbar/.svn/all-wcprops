@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/toolbar
+END
+Toolbar-legacy.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/toolbar/Toolbar-legacy.js
+END
+Paging.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/toolbar/Paging.js
+END
+Fill.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/toolbar/Fill.js
+END
+Spacer.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/toolbar/Spacer.js
+END
+Item.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/toolbar/Item.js
+END
+Separator.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/toolbar/Separator.js
+END
+Toolbar.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/toolbar/Toolbar.js
+END
+TextItem.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/toolbar/TextItem.js
+END

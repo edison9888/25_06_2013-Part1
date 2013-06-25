@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/chart/axis
+END
+Axis.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/chart/axis/Axis.js
+END
+Gauge.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/chart/axis/Gauge.js
+END
+Radial.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/chart/axis/Radial.js
+END
+Category.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/chart/axis/Category.js
+END
+Time.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/chart/axis/Time.js
+END
+Numeric.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/chart/axis/Numeric.js
+END
+Abstract.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/chart/axis/Abstract.js
+END

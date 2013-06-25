@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/dd
+END
+StatusProxy.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/dd/StatusProxy.js
+END
+DD.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/dd/DD.js
+END
+Registry.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/dd/Registry.js
+END
+DDProxy.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/dd/DDProxy.js
+END
+DragTracker.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/dd/DragTracker.js
+END
+DragZone.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/dd/DragZone.js
+END
+ScrollManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/dd/ScrollManager.js
+END
+DropTarget.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/dd/DropTarget.js
+END
+DragDropManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/dd/DragDropManager.js
+END
+DDTarget.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/dd/DDTarget.js
+END
+DragSource.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/dd/DragSource.js
+END
+DropZone.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/dd/DropZone.js
+END
+DragDrop.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/dd/DragDrop.js
+END

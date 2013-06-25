@@ -1,0 +1,20 @@
+/* 
+ * 
+ * Vishnu C
+ */
+
+
+[
+    {
+        "displayField":"All",
+        "value":"All"
+    },
+    {
+        "displayField":"Close",
+        "value":"Close"
+    },
+    {
+        "displayField":"Active",
+        "value":"Active"
+    }
+]

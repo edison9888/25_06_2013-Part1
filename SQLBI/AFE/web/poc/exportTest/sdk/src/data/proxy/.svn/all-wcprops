@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/data/proxy
+END
+Server.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/data/proxy/Server.js
+END
+Memory.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/data/proxy/Memory.js
+END
+SessionStorage.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/data/proxy/SessionStorage.js
+END
+JsonP.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/data/proxy/JsonP.js
+END
+Direct.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/data/proxy/Direct.js
+END
+Rest.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/data/proxy/Rest.js
+END
+Client.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/data/proxy/Client.js
+END
+LocalStorage.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/data/proxy/LocalStorage.js
+END
+Proxy.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/data/proxy/Proxy.js
+END
+WebStorage.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/data/proxy/WebStorage.js
+END
+Ajax.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/data/proxy/Ajax.js
+END

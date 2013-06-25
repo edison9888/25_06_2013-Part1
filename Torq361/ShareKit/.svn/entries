@@ -1,0 +1,77 @@
+10
+
+dir
+1094
+https://subversion.assembla.com/svn/torq361/trunk/Torq361_iPad/Torq361/ShareKit
+https://subversion.assembla.com/svn/torq361
+
+
+
+2011-09-22T08:39:45.919473Z
+1077
+jayahariv
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c2647543-767d-4a1d-9fe0-92065793301e
+
+Core
+dir
+
+Customize UI
+dir
+
+Localization
+dir
+
+SHKConfig.h
+file
+
+
+
+
+2011-10-11T13:04:58.000000Z
+e6ba66cb2e7657cd3870c7bbdfb1b4c8
+2011-09-22T08:39:45.919473Z
+1077
+jayahariv
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6912
+
+Sharers
+dir
+
+UI
+dir
+

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/sql-bi/!svn/ver/176/trunk/AFE/web/source/app/controller
+END
+HeadlineMetricsController.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sql-bi/!svn/ver/164/trunk/AFE/web/source/app/controller/HeadlineMetricsController.js
+END
+AFESearchController.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sql-bi/!svn/ver/176/trunk/AFE/web/source/app/controller/AFESearchController.js
+END
+OrganizationSummaryController.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sql-bi/!svn/ver/176/trunk/AFE/web/source/app/controller/OrganizationSummaryController.js
+END
+TopBudgetedAFEController.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sql-bi/!svn/ver/165/trunk/AFE/web/source/app/controller/TopBudgetedAFEController.js
+END
+ContentsViewController.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sql-bi/!svn/ver/107/trunk/AFE/web/source/app/controller/ContentsViewController.js
+END
+ProjectWatchListController.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sql-bi/!svn/ver/137/trunk/AFE/web/source/app/controller/ProjectWatchListController.js
+END
+WellSearchController.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sql-bi/!svn/ver/165/trunk/AFE/web/source/app/controller/WellSearchController.js
+END
+TopAFEClassesController.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sql-bi/!svn/ver/176/trunk/AFE/web/source/app/controller/TopAFEClassesController.js
+END
+ContentHeaderViewController.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sql-bi/!svn/ver/107/trunk/AFE/web/source/app/controller/ContentHeaderViewController.js
+END
+MainViewController.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sql-bi/!svn/ver/176/trunk/AFE/web/source/app/controller/MainViewController.js
+END

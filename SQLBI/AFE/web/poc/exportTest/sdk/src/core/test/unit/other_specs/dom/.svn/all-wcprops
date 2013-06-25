@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/core/test/unit/other_specs/dom
+END
+extjs-api.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/core/test/unit/other_specs/dom/extjs-api.js
+END
+sanity.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/core/test/unit/other_specs/dom/sanity.js
+END
+touch-api.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/core/test/unit/other_specs/dom/touch-api.js
+END
+platform-api.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/core/test/unit/other_specs/dom/platform-api.js
+END
+touch-api-out.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sql-bi/!svn/ver/70/trunk/AFE/web/poc/exportTest/sdk/src/core/test/unit/other_specs/dom/touch-api-out.js
+END

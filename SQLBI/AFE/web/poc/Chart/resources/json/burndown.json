@@ -1,0 +1,16 @@
+{
+	"afedata": [
+        { "month": "January",  "data1": 3000000,  "data2": 3000000,  "data3": 100000000 },
+        { "month": "February",  "data1": 8000000,  "data2": 11000000,  "data3": 100000000 },
+        { "month": "March",  "data1": 7000000,  "data2": 18000000,  "data3": 100000000 },
+        { "month": "April",  "data1": 7000000,  "data2": 25000000,  "data3": 100000000 },
+        { "month": "May",  "data1": 6000000,  "data2": 31000000,  "data3": 100000000 },
+		{ "month": "June",  "data1": 9000000,  "data2": 40000000,  "data3": 100000000 },
+		{ "month": "July",  "data1": 8500000,  "data2": 48500000,  "data3": 100000000 },
+		{ "month": "August",  "data1": 8000000,  "data2": 56500000,  "data3": 100000000 },
+		{ "month": "September",  "data1": 7000000,  "data2": 63500000,  "data3": 100000000 },
+		{ "month": "October",  "data1": 7000000,  "data2": 70500000,  "data3": 100000000 },
+		{ "month": "November",  "data1": 5000000,  "data2": 75500000,  "data3": 100000000 },
+		{ "month": "December",  "data1": 5000000,  "data2": 80500000,  "data3": 100000000 }
+    ]
+}

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/layout/container
+END
+Auto.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/layout/container/Auto.js
+END
+Card.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/layout/container/Card.js
+END
+Anchor.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/layout/container/Anchor.js
+END
+Border.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/layout/container/Border.js
+END
+Absolute.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/layout/container/Absolute.js
+END
+VBox.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/layout/container/VBox.js
+END
+Fit.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/layout/container/Fit.js
+END
+Container.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/layout/container/Container.js
+END
+Editor.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/layout/container/Editor.js
+END
+Table.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/layout/container/Table.js
+END
+Box.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/layout/container/Box.js
+END
+Border-old-js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/layout/container/Border-old-js
+END
+Column.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/layout/container/Column.js
+END
+HBox.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/layout/container/HBox.js
+END
+Accordion.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/layout/container/Accordion.js
+END
+Form.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/layout/container/Form.js
+END
+CheckboxGroup.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/layout/container/CheckboxGroup.js
+END

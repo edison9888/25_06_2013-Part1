@@ -1,0 +1,44 @@
+<%page args="access='strong'"/>\
+#import <Foundation/Foundation.h>
+#import "${parent}.h"
+%for prop in properties:
+    %if 'inherited' not in prop and prop['type'] not in types:
+#import "${prop['type']}.h"
+    %endif
+%endfor
+
+@interface ${name}Object : ${parent} <NSCoding, NSCopying> {
+@protected
+%for prop in properties:
+    %if 'inherited' not in prop:
+        ${prop['object_type']} *_${prop['name']};
+    %endif
+%endfor
+}
+
+%for prop in properties:
+%if 'inherited' not in prop:
+    @property (nonatomic, strong, ${access}) ${prop['object_type']} *${prop['name']};
+%endif
+%endfor
+
+%if len(properties) == 1 and properties[0]['object_type'] == 'NSArray':
+- (int)count;
+    %if properties[0]['type'] in types:
+- (${types[properties[0]['type']]} *)objectAtIndex:(int) index;
+    %else:
+- (${properties[0]['type']} *)objectAtIndex:(int) index;
+    %endif
+%endif
+
+- (id)initWith\
+%for i in range(len(properties)):
+${properties[i]['name']}:(${properties[i]['object_type']} *)${properties[i]['name']}
+%if i < len(properties) - 1:
+    \
+%endif
+%endfor
+;
+
+
+@end

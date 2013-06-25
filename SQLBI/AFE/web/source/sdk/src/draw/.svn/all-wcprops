@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/draw
+END
+Matrix.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/draw/Matrix.js
+END
+Text.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/draw/Text.js
+END
+Sprite.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/draw/Sprite.js
+END
+Surface.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/draw/Surface.js
+END
+CompositeSprite.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/draw/CompositeSprite.js
+END
+Draw.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/draw/Draw.js
+END
+Color.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/draw/Color.js
+END
+SpriteDD.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/draw/SpriteDD.js
+END
+Component.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/draw/Component.js
+END

@@ -1,0 +1,163 @@
+//
+//  WellSearchTableView.m
+//  SQLBI_AFE
+//
+//  Created by Ajeesh T S on 12/08/12.
+//  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+//
+
+#import "WellSearchTableView.h"
+#import "WellSearchCustomCell.h"
+#import "AFE.h"
+
+@interface WellSearchTableView ()
+{
+    UIView *popOverView;
+    UIPopoverController *popover;
+    NSArray *sortingParameterTypeArrays;
+    NSArray *parameterType;
+    NSString *typeOfParameter;
+}
+@property (nonatomic,strong)IBOutlet UITableView* wellTableView;
+@property (nonatomic,strong) NSArray* wellDetailArray;
+
+@property (nonatomic,strong) IBOutlet UILabel *afeHeaderLbl;
+@property (nonatomic,strong) IBOutlet UILabel *startDateHeaderLbl;
+@property (nonatomic,strong) IBOutlet UILabel *statusHeaderLbl;
+@property (nonatomic,strong) IBOutlet UILabel *budgetHeaderLbl;
+@property (nonatomic,strong) IBOutlet UILabel *fieldEstmtHeaderLbl;
+@property (nonatomic,strong) IBOutlet UILabel *feldEstmtBudgtHeaderLbl;
+@property (nonatomic,strong) IBOutlet UILabel *actualHeaderLbl;
+@property (nonatomic,strong) IBOutlet UILabel *actualBudgtHeaderLbl;
+
+
+@end
+
+@implementation WellSearchTableView
+
+@synthesize wellTableView;
+@synthesize wellDetailArray;
+@synthesize afeHeaderLbl,startDateHeaderLbl,statusHeaderLbl,budgetHeaderLbl,fieldEstmtHeaderLbl,feldEstmtBudgtHeaderLbl,actualHeaderLbl,actualBudgtHeaderLbl;
+
+
+-(id) initWithFrame:(CGRect)frame
+{
+    self = (WellSearchTableView*) [[[NSBundle mainBundle] loadNibNamed:@"WellSearchTableView" owner:self options:nil] lastObject];
+    if (self) {
+        
+        self.frame = CGRectMake(frame.origin.x, frame.origin.y, self.frame.size.width, self.frame.size.height);
+    }
+    return self;
+}
+
+-(void) refreshDataWithWellArray:(NSArray*) wellArrayToUse{
+    
+    self.wellDetailArray = wellArrayToUse;
+    [afeHeaderLbl setFont:FONT_TABLEVIEWCELL_HEADER];
+    [startDateHeaderLbl setFont:FONT_TABLEVIEWCELL_HEADER];
+    [statusHeaderLbl setFont:FONT_TABLEVIEWCELL_HEADER];
+    [budgetHeaderLbl setFont:FONT_TABLEVIEWCELL_HEADER];
+    [fieldEstmtHeaderLbl setFont:FONT_TABLEVIEWCELL_HEADER];
+    [feldEstmtBudgtHeaderLbl setFont:FONT_TABLEVIEWCELL_HEADER];
+    [actualHeaderLbl setFont:FONT_TABLEVIEWCELL_HEADER];
+    [actualBudgtHeaderLbl setFont:FONT_TABLEVIEWCELL];
+    sortingParameterTypeArrays = [[NSArray  alloc]initWithObjects:@"name",@"fromDate",@"status",@"budget",@"actual",@"fieldEstimatePercent",@"actual",@"actualPercent", nil];
+    parameterType = [[NSArray alloc]initWithObjects:@"castString",@"castString",@"castString",@"castInt",@"castInt",@"castInt",@"castInt",@"castInt", nil];
+    [wellTableView reloadData];
+}
+
+#pragma mark - table view datasource methods
+
+- (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section
+{
+    return self.wellDetailArray? self.wellDetailArray.count:0;
+}
+
+-(float) tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath
+{
+    return 57;
+}
+
+
+- (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
+{
+    WellSearchCustomCell *cell = [tableView dequeueReusableCellWithIdentifier:@"WellSearchCustomCell"];
+    if (cell == nil) {
+            // Load the top-level objects from the custom cell XIB.
+        NSArray *topLevelObjects = [[NSBundle mainBundle] loadNibNamed:@"WellSearchCustomCell" owner:self options:nil];
+            // Grab a pointer to the first object (presumably the custom cell, as that's all the XIB should contain).
+        cell = [topLevelObjects objectAtIndex:0];
+    }
+    AFE *tempAFEClass = [self.wellDetailArray objectAtIndex:indexPath.row];
+    if(tempAFEClass){
+        cell.afeLbl.text = tempAFEClass.name;
+        NSString *dateStr = [NSString stringWithFormat:@"%@",tempAFEClass.fromDate];
+        NSDateFormatter *dateFormatter = [[NSDateFormatter alloc] init];
+        [dateFormatter setDateFormat:@"yyyy-MM-dd HH:mm:ss.SSS"];
+        NSDate *date = [[NSDate alloc] init];
+        date = [dateFormatter dateFromString:dateStr];
+        cell.startDateLbl.text = [NSString stringWithFormat:@"%@",[Utility getStringFromDate:date]];
+        cell.statusLbl.text = tempAFEClass.status;
+        cell.budgetLbl.text = [NSString stringWithFormat:@"$%@",[Utility formatNumber:[NSString stringWithFormat:@"%.f",tempAFEClass.budget]]];
+        cell.fieldEstmtLbl.text = [NSString stringWithFormat:@"$%@",[Utility formatNumber:[NSString stringWithFormat:@"%.f",tempAFEClass.actual]]];//[NSString stringWithFormat:@"$%.f",tempAFEClass.actual]; 
+        cell.feldEstmtBudgtLbl.text = [NSString stringWithFormat:@"$%@",[Utility formatNumber:[NSString stringWithFormat:@"%.f",tempAFEClass.fieldEstimatePercent]]];//[NSString stringWithFormat:@"$%.f %",tempAFEClass.fieldEstimatePercent];
+        cell.actualLbl.text = [NSString stringWithFormat:@"$%@",[Utility formatNumber:[NSString stringWithFormat:@"%.f",tempAFEClass.actual]]];//[NSString stringWithFormat:@"$%.f",tempAFEClass.actual];
+        cell.actualBudgtLbl.text = [NSString stringWithFormat:@"%@%%",[Utility formatNumber:[NSString stringWithFormat:@"%.f",tempAFEClass.actualPercent]]];//[NSString stringWithFormat:@"%.f %%",tempAFEClass.actualPercent];
+        cell.indicatorImage.image = [UIImage imageNamed:@"redCircle.png"];
+        if(tempAFEClass.actualPercent < 40)
+            cell.indicatorImage.image = [UIImage imageNamed:@"greenCircle.png"];
+        if((tempAFEClass.actualPercent >= 40) && (tempAFEClass.actualPercent < 95))
+            cell.indicatorImage.image = [UIImage imageNamed:@"yellowCircle.png"];
+    }
+    [cell setSelectionStyle:UITableViewCellSelectionStyleNone];
+    return cell;
+}
+
+//Drop Down Button Action
+-(IBAction)dropDownButtonClick:(id)sender
+{
+    UIButton *button = (UIButton *)sender;
+    typeOfParameter = [parameterType objectAtIndex:button.tag-12];
+    
+    if ([typeOfParameter isEqualToString:@"castInt"]) 
+    {
+        [self showPopOverWithXAxis:button.frame.origin.x withWidth:button.frame.size.width withSortingParameter:[sortingParameterTypeArrays objectAtIndex:button.tag-12] withType:castInt];
+    }
+    else if([typeOfParameter isEqualToString:@"castString"])
+    {
+        [self showPopOverWithXAxis:button.frame.origin.x withWidth:button.frame.size.width withSortingParameter:[sortingParameterTypeArrays objectAtIndex:button.tag-12] withType:castString];
+    }
+    else if([typeOfParameter isEqualToString:@"castDate"])
+    {
+        [self showPopOverWithXAxis:button.frame.origin.x withWidth:button.frame.size.width withSortingParameter:[sortingParameterTypeArrays objectAtIndex:button.tag-12] withType:castDate];
+    }
+}
+
+-(void)showPopOverWithXAxis:(int)xAxis withWidth:(int)width withSortingParameter:(NSString *)parameter withType:(typeCastType)type
+{   
+    SortingView * sortView = [[SortingView alloc] initWithNibName:@"SortingView" bundle:nil];
+    popover = [[UIPopoverController alloc] initWithContentViewController:sortView];    
+    popover.popoverContentSize =CGSizeMake(165.0, 106.0);
+    [popover setDelegate:self];    
+    sortView.delegate = self;
+    sortView.sortingParameter =parameter;
+    sortView.sortType = type;
+    [popover presentPopoverFromRect:CGRectMake(xAxis, 9, width, 32) inView:self permittedArrowDirections:UIPopoverArrowDirectionUp animated:YES]; 
+}
+
+-(void)sortClicked:(BOOL)descending withSortingParameter:(NSString *)parameter withType:(int)type
+{
+    wellDetailArray = wellDetailArray =[Utility sortArrayWithParameter:parameter ascending:descending typeCastType:type arrayToSort:wellDetailArray];
+    [self.wellTableView reloadData];
+    [popover dismissPopoverAnimated:YES];
+}
+
+-(void) dealloc
+{
+    self.wellTableView = nil;
+    self.wellDetailArray = nil;
+}
+
+
+
+@end

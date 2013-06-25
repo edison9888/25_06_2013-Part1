@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sql-bi/!svn/ver/207/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/Accessories
+END
+AnchorInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sql-bi/!svn/ver/207/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/Accessories/AnchorInfo.m
+END
+XAxisLabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sql-bi/!svn/ver/207/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/Accessories/XAxisLabel.h
+END
+MIMProperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sql-bi/!svn/ver/207/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/Accessories/MIMProperties.h
+END
+MIMFloatingView.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sql-bi/!svn/ver/207/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/Accessories/MIMFloatingView.h
+END
+XAxisLabel.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sql-bi/!svn/ver/207/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/Accessories/XAxisLabel.m
+END
+MIMProperties.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sql-bi/!svn/ver/207/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/Accessories/MIMProperties.m
+END
+AnchorDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sql-bi/!svn/ver/207/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/Accessories/AnchorDelegate.h
+END
+MIMFloatingView.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sql-bi/!svn/ver/207/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/Accessories/MIMFloatingView.m
+END
+Anchor.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sql-bi/!svn/ver/207/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/Accessories/Anchor.h
+END
+PageControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sql-bi/!svn/ver/207/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/Accessories/PageControl.h
+END
+MIMMeter.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sql-bi/!svn/ver/207/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/Accessories/MIMMeter.h
+END
+Anchor.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sql-bi/!svn/ver/207/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/Accessories/Anchor.m
+END
+MIM_MathClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sql-bi/!svn/ver/207/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/Accessories/MIM_MathClass.h
+END
+XAxisBand.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sql-bi/!svn/ver/207/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/Accessories/XAxisBand.h
+END
+PageControl.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sql-bi/!svn/ver/207/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/Accessories/PageControl.m
+END
+YAxisBand.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sql-bi/!svn/ver/207/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/Accessories/YAxisBand.h
+END
+CustomBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sql-bi/!svn/ver/207/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/Accessories/CustomBox.h
+END
+MIMMeter.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sql-bi/!svn/ver/207/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/Accessories/MIMMeter.m
+END
+MIM_MathClass.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sql-bi/!svn/ver/207/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/Accessories/MIM_MathClass.m
+END
+AnchorInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sql-bi/!svn/ver/207/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/Accessories/AnchorInfo.h
+END
+XAxisBand.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sql-bi/!svn/ver/207/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/Accessories/XAxisBand.m
+END
+YAxisBand.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sql-bi/!svn/ver/207/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/Accessories/YAxisBand.m
+END
+CustomBox.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sql-bi/!svn/ver/207/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/Accessories/CustomBox.m
+END

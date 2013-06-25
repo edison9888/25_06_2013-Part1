@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/sql-bi/!svn/ver/27/trunk/AFE/web/poc/Chart
+END
+pie.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/sql-bi/!svn/ver/7/trunk/AFE/web/poc/Chart/pie.html
+END
+burndown.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/sql-bi/!svn/ver/7/trunk/AFE/web/poc/Chart/burndown.html
+END
+HeatMap.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/sql-bi/!svn/ver/27/trunk/AFE/web/poc/Chart/HeatMap.html
+END
+mychart.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/sql-bi/!svn/ver/12/trunk/AFE/web/poc/Chart/mychart.html
+END
+groupedBar.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sql-bi/!svn/ver/11/trunk/AFE/web/poc/Chart/groupedBar.html
+END
+mixedBar.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sql-bi/!svn/ver/11/trunk/AFE/web/poc/Chart/mixedBar.html
+END

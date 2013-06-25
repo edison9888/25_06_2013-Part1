@@ -1,0 +1,28 @@
+//
+//  TDMOverlayView.h
+//  TheDailyMeal
+//
+//  Created by RapidValue on 18/03/12.
+//  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+#import <QuartzCore/QuartzCore.h>
+
+@interface TDMOverlayView : UIView
+{
+    //for sync type.
+    UIInterfaceOrientation _orientation;
+}
+
+
+- (id)initWithFrame:(CGRect)frame AndTitle:(NSString *)title;
+- (id)initWithSyncStyleAndTitle:(NSString *)title;
+- (id)initWithFrame:(CGRect)frame  Title:(NSString *)title AndProgress:(UIProgressView *)progressView;
+
+#pragma mark - @Overrides
+-(void)setTitle:(NSString *)title;
+- (void)startAnimating;
+- (void)stopAnimating;
+
+@end

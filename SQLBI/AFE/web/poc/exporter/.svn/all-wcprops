@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/sql-bi/!svn/ver/8/trunk/AFE/web/poc/exporter
+END
+Base64.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sql-bi/!svn/ver/8/trunk/AFE/web/poc/exporter/Base64.js
+END
+build
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/sql-bi/!svn/ver/8/trunk/AFE/web/poc/exporter/build
+END
+Exporter.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sql-bi/!svn/ver/8/trunk/AFE/web/poc/exporter/Exporter.js
+END
+Button.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sql-bi/!svn/ver/8/trunk/AFE/web/poc/exporter/Button.js
+END
+Exporter-all.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sql-bi/!svn/ver/8/trunk/AFE/web/poc/exporter/Exporter-all.js
+END
+README.textile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sql-bi/!svn/ver/8/trunk/AFE/web/poc/exporter/README.textile
+END
+Formatter.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sql-bi/!svn/ver/8/trunk/AFE/web/poc/exporter/Formatter.js
+END

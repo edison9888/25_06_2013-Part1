@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/sql-bi/!svn/ver/164/trunk/AFE/web/source/resources/data
+END
+AllAFEs.json
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sql-bi/!svn/ver/137/trunk/AFE/web/source/resources/data/AllAFEs.json
+END
+TopAFEClasses1.json
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sql-bi/!svn/ver/83/trunk/AFE/web/source/resources/data/TopAFEClasses1.json
+END
+TopBudgetedBars.json
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sql-bi/!svn/ver/155/trunk/AFE/web/source/resources/data/TopBudgetedBars.json
+END
+AllProjectWatchList.json
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sql-bi/!svn/ver/107/trunk/AFE/web/source/resources/data/AllProjectWatchList.json
+END
+Status.json
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sql-bi/!svn/ver/107/trunk/AFE/web/source/resources/data/Status.json
+END
+Barchart.json
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sql-bi/!svn/ver/141/trunk/AFE/web/source/resources/data/Barchart.json
+END
+Organizations.json
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sql-bi/!svn/ver/107/trunk/AFE/web/source/resources/data/Organizations.json
+END
+InvoiceBillingCategory.json
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sql-bi/!svn/ver/108/trunk/AFE/web/source/resources/data/InvoiceBillingCategory.json
+END
+TopAFEClasses.json
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sql-bi/!svn/ver/64/trunk/AFE/web/source/resources/data/TopAFEClasses.json
+END
+Invoice.json
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sql-bi/!svn/ver/108/trunk/AFE/web/source/resources/data/Invoice.json
+END
+BurnDown.json
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sql-bi/!svn/ver/114/trunk/AFE/web/source/resources/data/BurnDown.json
+END
+AFEsByClass.json
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sql-bi/!svn/ver/138/trunk/AFE/web/source/resources/data/AFEsByClass.json
+END
+HeadLineMetrics.json
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sql-bi/!svn/ver/164/trunk/AFE/web/source/resources/data/HeadLineMetrics.json
+END
+AllAFEClasses.json
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sql-bi/!svn/ver/138/trunk/AFE/web/source/resources/data/AllAFEClasses.json
+END
+OrganizationType.json
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sql-bi/!svn/ver/107/trunk/AFE/web/source/resources/data/OrganizationType.json
+END

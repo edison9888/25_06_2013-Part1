@@ -1,0 +1,71 @@
+10
+
+dir
+182
+https://subversion.assembla.com/svn/smg-the-daily-meal/TheDailyMeal/TheDailyMeal/Shared/Twitter
+https://subversion.assembla.com/svn/smg-the-daily-meal
+
+
+
+2012-03-08T07:11:06.267569Z
+174
+aswathybose
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e997812a-ea43-414e-89fb-adbd734650f1
+
+Guts
+dir
+
+OAuthConsumerCredentials.h
+file
+
+
+
+
+2012-03-07T07:00:01.000000Z
+1d6c6af008c9c023d158403bcae49c73
+2012-03-01T05:00:46.936460Z
+139
+aswathybose
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+257
+
+Protocols
+dir
+
+User Interface
+dir
+

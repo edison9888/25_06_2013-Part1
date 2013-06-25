@@ -1,0 +1,47 @@
+10
+
+dir
+807
+https://subversion.assembla.com/svn/sql-bi/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE.xcodeproj
+https://subversion.assembla.com/svn/sql-bi
+
+
+
+2012-09-28T07:47:40.588946Z
+807
+anooptassembla
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c9bedf4f-923d-43db-83ae-48e03ff530b8
+
+project.pbxproj
+file
+
+
+
+
+
+f71c19e70b9908dd44da72b17236e714
+2012-09-27T05:00:52.605204Z
+791
+anooptassembla
+has-props
+
+project.xcworkspace
+dir
+
+xcuserdata
+dir
+

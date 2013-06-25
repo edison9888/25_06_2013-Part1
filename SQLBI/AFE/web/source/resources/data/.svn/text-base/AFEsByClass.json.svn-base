@@ -1,0 +1,9 @@
+[
+
+    {"AFEID":"104", "Name":"AFE4", "AFENumber":"104", "Status":"Active", "FromDate":"2012-1-1", "EndDate":"2012-6-30", "Budget":58, "FieldEstimate":60, "FieldEstimatePercent":40, "FieldEstimateAsStr":"60", "Actual":50, "ActualPercent":10, "ActualsAsStr":"50", "Total":110},
+    {"AFEID":"103", "Name":"AFE3", "AFENumber":"103", "Status":"Close", "FromDate":"2012-1-1", "EndDate":"2012-6-30", "Budget":120, "FieldEstimate":125, "FieldEstimatePercent":50, "FieldEstimateAsStr":"125", "Actual":110, "ActualPercent":50, "ActualsAsStr":"110", "Total":235},
+    {"AFEID":"102", "Name":"AFE2", "AFENumber":"102", "Status":"Active", "FromDate":"2012-1-1", "EndDate":"2012-6-30", "Budget":122, "FieldEstimate":130, "FieldEstimatePercent":60, "FieldEstimateAsStr":"130", "Actual":120, "ActualPercent":80, "ActualsAsStr":"130", "Total":250},
+    {"AFEID":"101", "Name":"AFE1", "AFENumber":"101", "Status":"Close", "FromDate":"2012-1-1", "EndDate":"2012-6-30", "Budget":159, "FieldEstimate":170, "FieldEstimatePercent":70, "FieldEstimateAsStr":"170", "Actual":160, "ActualPercent":90, "ActualsAsStr":"160", "Total":330},
+    {"AFEID":"100", "Name":"AFE0", "AFENumber":"100", "Status":"Active", "FromDate":"2012-1-1", "EndDate":"2012-6-30", "Budget":332, "FieldEstimate":350, "FieldEstimatePercent":80, "FieldEstimateAsStr":"350", "Actual":330, "ActualPercent":190, "ActualsAsStr":"330", "Total":680}
+
+]

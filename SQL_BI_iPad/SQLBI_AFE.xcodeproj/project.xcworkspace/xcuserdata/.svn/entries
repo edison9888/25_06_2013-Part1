@@ -1,0 +1,37 @@
+10
+
+dir
+807
+https://subversion.assembla.com/svn/sql-bi/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE.xcodeproj/project.xcworkspace/xcuserdata
+https://subversion.assembla.com/svn/sql-bi
+
+
+
+2012-09-27T05:00:52.605204Z
+791
+anooptassembla
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c9bedf4f-923d-43db-83ae-48e03ff530b8
+
+Ajeesh.xcuserdatad
+dir
+
+Baburaj.xcuserdatad
+dir
+
+rapidvalueios.xcuserdatad
+dir
+

@@ -1,0 +1,13 @@
+<html>
+    <body  leftmargin=\"0\" rightmargin=\"0\" topmargin=\"0\" bottommargin=\"0\" style = 'margin:0px;padding:0px'>
+        <script type="text/javascript">
+            var OAS_rn = '001234567890';
+            var OAS_rns = '1234567890';
+            
+            OAS_rn = new String (Math.random());
+            OAS_rns = OAS_rn.substring (2, 11);
+            document.write("<scr"+"ipt type='text/javascript' src='http://oascentral.thedailymeal.com/RealMedia/ads/adstream_jx.ads/dev.smg.lan/mobile/1 + OAS_rns +@Middle1'></scr"+"ipt>");
+            
+            </script>
+    </body>
+</html>

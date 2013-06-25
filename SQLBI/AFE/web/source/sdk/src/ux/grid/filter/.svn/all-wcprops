@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sql-bi/!svn/ver/173/trunk/AFE/web/source/sdk/src/ux/grid/filter
+END
+BooleanFilter.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sql-bi/!svn/ver/173/trunk/AFE/web/source/sdk/src/ux/grid/filter/BooleanFilter.js
+END
+Filter.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sql-bi/!svn/ver/173/trunk/AFE/web/source/sdk/src/ux/grid/filter/Filter.js
+END
+NumericFilter.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sql-bi/!svn/ver/173/trunk/AFE/web/source/sdk/src/ux/grid/filter/NumericFilter.js
+END
+StringFilter.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sql-bi/!svn/ver/173/trunk/AFE/web/source/sdk/src/ux/grid/filter/StringFilter.js
+END
+ListFilter.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sql-bi/!svn/ver/173/trunk/AFE/web/source/sdk/src/ux/grid/filter/ListFilter.js
+END
+DateFilter.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sql-bi/!svn/ver/173/trunk/AFE/web/source/sdk/src/ux/grid/filter/DateFilter.js
+END

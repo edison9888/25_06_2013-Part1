@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sql-bi/!svn/ver/176/trunk/AFE/web/source/resources/js/util
+END
+jit.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sql-bi/!svn/ver/51/trunk/AFE/web/source/resources/js/util/jit.js
+END
+swfobject.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sql-bi/!svn/ver/80/trunk/AFE/web/source/resources/js/util/swfobject.js
+END
+excanvas.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sql-bi/!svn/ver/51/trunk/AFE/web/source/resources/js/util/excanvas.js
+END
+Constants.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sql-bi/!svn/ver/137/trunk/AFE/web/source/resources/js/util/Constants.js
+END
+Exporter-all.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sql-bi/!svn/ver/80/trunk/AFE/web/source/resources/js/util/Exporter-all.js
+END
+heatMap.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sql-bi/!svn/ver/176/trunk/AFE/web/source/resources/js/util/heatMap.js
+END
+Center.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sql-bi/!svn/ver/51/trunk/AFE/web/source/resources/js/util/Center.js
+END
+downloadify.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sql-bi/!svn/ver/80/trunk/AFE/web/source/resources/js/util/downloadify.min.js
+END

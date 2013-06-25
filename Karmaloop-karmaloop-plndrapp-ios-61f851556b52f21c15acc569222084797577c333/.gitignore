@@ -1,0 +1,15 @@
+build/
+profile
+*.pbxuser
+!default.pbxuser
+*.xcworkspace
+!default.xcworkspace
+xcuserdata
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+
+
+.DS_Store
+Utility/xl-amg/__pycache__/commandConfig.cpython-32.pyc
+Utility/xl-amg/commandConfig.pyc
+Utility/xl-amg/__pycache__/config.cpython-32.pyc

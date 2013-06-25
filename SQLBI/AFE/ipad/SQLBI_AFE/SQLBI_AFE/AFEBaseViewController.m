@@ -1,0 +1,54 @@
+//
+//  AFEBaseViewController.m
+//  SQLBI_AFE
+//
+//  Created by Sivakumar Nair on 04/08/12.
+//  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+//
+
+#import "AFEBaseViewController.h"
+
+@interface AFEBaseViewController ()
+
+@end
+
+@implementation AFEBaseViewController
+
+- (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
+{
+    self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
+    if (self) {
+        // Custom initialization
+        
+    }
+    return self;
+}
+
+#pragma mark - View life Cycles
+
+- (void)viewDidLoad
+{
+    [super viewDidLoad];
+	// Do any additional setup after loading the view.
+}
+
+- (void)viewDidUnload
+{
+    [super viewDidUnload];
+    // Release any retained subviews of the main view.
+}
+
+- (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation
+{
+	return ((interfaceOrientation == UIInterfaceOrientationLandscapeLeft) || (interfaceOrientation == UIInterfaceOrientationLandscapeRight)) ;
+}
+
+
+#pragma mark - Setter and getter methods
+-(void) dealloc
+{
+    //NSLog(@"");
+}
+
+
+@end

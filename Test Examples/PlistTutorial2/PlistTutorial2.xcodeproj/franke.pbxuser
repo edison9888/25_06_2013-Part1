@@ -1,0 +1,194 @@
+// !$*UTF8*$!
+{
+	09BEC09013D48B5E00FAE5CA /* PlistTutorial2 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = PlistTutorial2;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	09BEC09A13D48B6900FAE5CA /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	09BEC09B13D48B6900FAE5CA /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	09BEC09E13D48C0F00FAE5CA /* SecondViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {704, 318}}";
+			sepNavSelRange = "{110, 14}";
+			sepNavVisRange = "{0, 355}";
+		};
+	};
+	09BEC09F13D48C0F00FAE5CA /* SecondViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{1958, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{2009, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{2059, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 2680}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {726, 1430}}";
+			sepNavSelRange = "{128, 0}";
+			sepNavVisRange = "{0, 559}";
+			sepNavWindowFrame = "{{14, 4}, {1237, 1054}}";
+		};
+	};
+	09BEC11C13D498AB00FAE5CA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28216C960DB411BC00E5133A /* FirstViewController.m */;
+		name = "FirstViewController.m: 20";
+		rLen = 850;
+		rLoc = 344;
+		rType = 0;
+		vrLen = 901;
+		vrLoc = 292;
+	};
+	09BEC14113D49DC200FAE5CA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 09BEC09E13D48C0F00FAE5CA /* SecondViewController.h */;
+		name = "SecondViewController.h: 6";
+		rLen = 14;
+		rLoc = 110;
+		rType = 0;
+		vrLen = 355;
+		vrLoc = 0;
+	};
+	09BEC14213D49DC200FAE5CA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 09BEC09F13D48C0F00FAE5CA /* SecondViewController.m */;
+		name = "SecondViewController.m: 6";
+		rLen = 0;
+		rLoc = 128;
+		rType = 0;
+		vrLen = 559;
+		vrLoc = 0;
+	};
+	09BEC14413D49DC200FAE5CA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 09BEC09F13D48C0F00FAE5CA /* SecondViewController.m */;
+		name = "SecondViewController.m: 6";
+		rLen = 0;
+		rLoc = 128;
+		rType = 0;
+		vrLen = 559;
+		vrLoc = 0;
+	};
+	1D6058900D05DD3D006BFB54 /* PlistTutorial2 */ = {
+		activeExec = 0;
+		executables = (
+			09BEC09013D48B5E00FAE5CA /* PlistTutorial2 */,
+		);
+	};
+	28216C950DB411BC00E5133A /* FirstViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1178, 926}}";
+			sepNavSelRange = "{150, 573}";
+			sepNavVisRange = "{0, 724}";
+			sepNavWindowFrame = "{{15, 4}, {1237, 1054}}";
+		};
+	};
+	28216C960DB411BC00E5133A /* FirstViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {558, 1118}}";
+			sepNavSelRange = "{1197, 0}";
+			sepNavVisRange = "{220, 432}";
+			sepNavWindowFrame = "{{15, 4}, {1237, 1054}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 09BEC09013D48B5E00FAE5CA /* PlistTutorial2 */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* PlistTutorial2 */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* PlistTutorial2 */,
+		);
+		codeSenseManager = 09BEC09B13D48B6900FAE5CA /* Code sense */;
+		executables = (
+			09BEC09013D48B5E00FAE5CA /* PlistTutorial2 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					526,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					502,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 332696414;
+			PBXWorkspaceStateSaveDate = 332696414;
+		};
+		perUserProjectItems = {
+			09BEC11C13D498AB00FAE5CA /* PBXTextBookmark */ = 09BEC11C13D498AB00FAE5CA /* PBXTextBookmark */;
+			09BEC14113D49DC200FAE5CA /* PBXTextBookmark */ = 09BEC14113D49DC200FAE5CA /* PBXTextBookmark */;
+			09BEC14213D49DC200FAE5CA /* PBXTextBookmark */ = 09BEC14213D49DC200FAE5CA /* PBXTextBookmark */;
+			09BEC14413D49DC200FAE5CA /* PBXTextBookmark */ = 09BEC14413D49DC200FAE5CA /* PBXTextBookmark */;
+		};
+		sourceControlManager = 09BEC09A13D48B6900FAE5CA /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

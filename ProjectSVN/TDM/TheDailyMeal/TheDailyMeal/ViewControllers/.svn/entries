@@ -1,0 +1,79 @@
+10
+
+dir
+182
+https://subversion.assembla.com/svn/smg-the-daily-meal/TheDailyMeal/TheDailyMeal/ViewControllers
+https://subversion.assembla.com/svn/smg-the-daily-meal
+
+
+
+2012-03-09T06:26:20.574449Z
+182
+nithing
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e997812a-ea43-414e-89fb-adbd734650f1
+
+AboutUs
+dir
+
+Accounts
+dir
+
+Bars
+dir
+
+Business
+dir
+
+Channels
+dir
+
+CityGuides
+dir
+
+FaceBook
+dir
+
+Favorites
+dir
+
+ForgotPassword
+dir
+
+Login
+dir
+
+MyProfile
+dir
+
+Restaurants
+dir
+
+Reviews
+dir
+
+Shared
+dir
+
+SignUp
+dir
+
+SignatureDish
+dir
+
+eMail
+dir
+

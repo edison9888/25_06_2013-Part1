@@ -1,0 +1,2 @@
+/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/Classes/SecondViewController.m: In function '-[SecondViewController tableView:cellForRowAtIndexPath:]':
+/Volumes/USB DISK/51 - Create a Plist Programmatically/PlistTutorial2/Classes/SecondViewController.m:58: warning: local declaration of 'tableView' hides instance variable

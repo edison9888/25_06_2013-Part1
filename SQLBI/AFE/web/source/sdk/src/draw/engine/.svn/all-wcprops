@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/draw/engine
+END
+SvgExporter.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/draw/engine/SvgExporter.js
+END
+ImageExporter.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/draw/engine/ImageExporter.js
+END
+Vml.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/draw/engine/Vml.js
+END
+Svg.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/draw/engine/Svg.js
+END

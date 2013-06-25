@@ -1,0 +1,27 @@
+/* 
+ * 
+ * Vishnu C
+ */
+
+[
+ {
+     "DisplayName":"Division",
+     "OrgType":"Division"
+ },
+ {
+     "DisplayName":"Business Unit",
+     "OrgType":"BusinessUnit"
+ },
+ {
+     "DisplayName":"District",
+     "OrgType":"District"
+ },
+ {
+     "DisplayName":"Area",
+     "OrgType":"Area"
+ },
+ {
+     "DisplayName":"SubArea1",
+     "OrgType":"SubArea1"
+ }
+]

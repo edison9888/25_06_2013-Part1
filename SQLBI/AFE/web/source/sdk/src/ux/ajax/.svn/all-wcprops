@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sql-bi/!svn/ver/173/trunk/AFE/web/source/sdk/src/ux/ajax
+END
+DataSimlet.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sql-bi/!svn/ver/173/trunk/AFE/web/source/sdk/src/ux/ajax/DataSimlet.js
+END
+JsonSimlet.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sql-bi/!svn/ver/173/trunk/AFE/web/source/sdk/src/ux/ajax/JsonSimlet.js
+END
+SimXhr.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sql-bi/!svn/ver/173/trunk/AFE/web/source/sdk/src/ux/ajax/SimXhr.js
+END
+Simlet.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sql-bi/!svn/ver/173/trunk/AFE/web/source/sdk/src/ux/ajax/Simlet.js
+END
+XmlSimlet.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sql-bi/!svn/ver/173/trunk/AFE/web/source/sdk/src/ux/ajax/XmlSimlet.js
+END
+SimManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sql-bi/!svn/ver/173/trunk/AFE/web/source/sdk/src/ux/ajax/SimManager.js
+END

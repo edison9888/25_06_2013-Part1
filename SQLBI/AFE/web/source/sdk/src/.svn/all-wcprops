@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/sql-bi/!svn/ver/173/trunk/AFE/web/source/sdk/src
+END
+FocusManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/FocusManager.js
+END
+Template.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/Template.js
+END
+Layer.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/Layer.js
+END
+Img.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/Img.js
+END
+Action.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/Action.js
+END
+ShadowPool.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/ShadowPool.js
+END
+ElementLoader.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/ElementLoader.js
+END
+XTemplateParser.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/XTemplateParser.js
+END
+AbstractPlugin.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/AbstractPlugin.js
+END
+Ajax.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/Ajax.js
+END
+Shadow.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/Shadow.js
+END
+AbstractComponent.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/AbstractComponent.js
+END
+Editor.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/Editor.js
+END
+ComponentQuery.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/ComponentQuery.js
+END
+tail.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/tail.js
+END
+ProgressBar.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/ProgressBar.js
+END
+PluginManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/PluginManager.js
+END
+ComponentLoader.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/ComponentLoader.js
+END
+LoadMask.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/LoadMask.js
+END
+ModelManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/ModelManager.js
+END
+ZIndexManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/ZIndexManager.js
+END
+ComponentManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/ComponentManager.js
+END
+XTemplateCompiler.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/XTemplateCompiler.js
+END
+AbstractManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/AbstractManager.js
+END
+Component.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/Component.js
+END
+XTemplate.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/XTemplate.js
+END

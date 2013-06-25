@@ -1,0 +1,40 @@
+/* 
+ * 
+ * Vishnu C
+ */
+
+[
+    { 
+        'AFE': 'AFE',
+        "AFE Estimate":"$10000",  
+        "Field Estimate":"$20000",
+        "Consumption":"200%"  
+    },
+    { 
+        'AFE': 'AFE', 
+        "AFE Estimate":"$10000",  
+        "Field Estimate":"$10000",
+        "Consumption":"100%" 
+    },
+    {
+        'AFE': 'AFE', 
+        "AFE Estimate":"$10000",
+        "Field Estimate":"$9000",
+        "Consumption":"90%"
+    },
+    { 
+        'AFE': 'AFE',
+        "AFE Estimate":"$10000",
+        "Field Estimate":"$8000","Consumption":"80%"  
+    },
+    { 
+        'AFE': 'AFE',  
+        "AFE Estimate":"$10000",  
+        "Field Estimate":"$7000",
+        "Consumption":"70%"
+    }
+    
+        
+        
+
+]

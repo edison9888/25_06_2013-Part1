@@ -1,0 +1,218 @@
+@import "blueprint";
+
+//Recommended Blueprint configuration with scoping and semantic layout:
+body.bp {
+  @include blueprint-print(true); }
+$headerbackground:#314759;
+$fontFamily:0;
+  .test{
+    color:blue;
+  }
+  .contentHeader{
+    color:white;
+    background:#{$headerbackground};
+    border: 1px solid black;
+   /* font-weight:bold*/
+  }
+  .menuHeader{
+    background:#{$headerbackground};
+   }
+.menuButton{
+    borderColor:#{$headerbackground};
+    background:#{$headerbackground};
+   border: none;
+}
+.menuButton span{
+
+    color:White !important;
+    font-size:15px !important;
+}
+.contentHeaderLabel{
+    color:white;
+    margin:16 15 0 5;
+    /*font-size: 14px;*/
+    cursor: pointer;
+}
+
+.contentHeaderImg{
+    margin: 16 0 0 10;
+    cursor: pointer;
+}
+
+.searchButton{
+    background:#FFCC00 ;
+    font-family:#{$fontFamily};
+    font-size:14px;
+}
+
+.contentHeaderButton{
+    background:#4F81BC;
+}
+
+.contentHeaderButton span{
+    color:#FFFFFF !important;
+    font-size:15px !important;
+}
+
+.helpIcon{
+    background-image: url('../images/help.png');
+    padding: 45px 0 0 0;
+}
+
+.fullScreenIcon{
+    background-image: url('../images/full_screen.png');
+    padding: 45px 0 0 0;
+}
+
+.topAFEClassesNavLink{
+    background: transparent;
+    color:#000000;
+    text-decoration: underline;
+    border: none;
+}
+
+.topAFEClassesNavLink .x-panel-body-default{
+    font-size: 14px !important;
+}
+
+.showAll{
+    text-decoration:underline;
+    color:#4D82BD !important;
+    /*font-size:15em;*/
+    cursor:pointer;
+    background:transparent;
+    border:none;
+  font-family: #{$fontFamily};  
+}
+
+.showAll .x-panel-body-default{
+    color:#4D82BD !important;
+ 
+}
+
+.headlineMetricsData
+{
+font-size: 14px;
+font-weight: bold;
+ font-family: #{$fontFamily};  
+}
+
+.headlineMetricsLabel
+{
+font-size: 14px;
+color: grey;
+ font-family: #{$fontFamily};  
+}
+
+ .linn
+{
+font-family:Times New Roman;
+font-size:25px;
+}
+
+.energy
+{
+font-family:Times New Roman;
+font-size:20px;
+font-weight:light;
+}
+
+.datawarehouse
+{
+ font-family: #{$fontFamily};  
+font-size:16px;
+font-weight:bold;
+}
+
+/*
+.x-panel div{
+border-color: black !important ;
+}*/
+
+.exportButton{
+ border: 1px solid black !important ;
+  background:#CCCCCC;
+border-radius: 0;
+}
+
+.contentHeader label{
+ font-family: #{$fontFamily}; 
+font-size:14px; 
+text-shadow: none;
+}
+
+.exportButton div{
+border-radius: 0;
+border: 1px solid black;
+}
+
+.topAFEClassesGrid{
+    background-color: #CCC !important;
+    border-color: #969696 !important;
+}
+
+.topAFEClassesGrid .x-toolbar{
+    background-color: #CCC !important;
+    border-color: #CCC !important;
+    background-image: none !important;
+}
+
+.topAFEClassesGrid .x-grid-cell-inner{
+    line-height: 29px;
+}
+
+.titleDate{
+color:#25B1E4;
+ font-family: #{$fontFamily}; 
+font-size:12px  !important; 
+}
+.tip-text{
+height:50px;
+width:200px;
+  background-color: #D0E8F4;
+}
+.tip-title{
+  background-color: #D0E8F4;
+
+}
+.contentHeaderItem{
+
+color:white;
+font-size:14px;
+}
+.tip{
+border: 2px solid #A1A1A1;
+padding: 5px 9px;
+background-color: #D0E8F4;
+width: 221px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-right-radius: 10px;
+border-bottom-left-radius: 10px;
+line-height: 17px;
+font-family: #{$fontFamily}; 
+}
+
+.afeSettings{
+  text-decoration:underline;
+    color:#4D82BD !important;
+  
+    cursor:pointer;
+    background:transparent;
+    border:none;
+  font-family: #{$fontFamily}; 
+}
+
+.gridHeader{
+    background-color: #cccccc;
+}
+.wellSearchLabel{
+ font-family: #{$fontFamily};
+font-size:14px; 
+color: grey;
+}
+.wellSearchLabelContent{
+ font-family: #{$fontFamily};
+font-size:14px;
+font-weight:bold;
+}

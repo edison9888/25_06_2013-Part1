@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/sql-bi/!svn/ver/27/trunk/AFE/web/poc/Chart/app/util
+END
+jit.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sql-bi/!svn/ver/7/trunk/AFE/web/poc/Chart/app/util/jit.js
+END
+mychart.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sql-bi/!svn/ver/12/trunk/AFE/web/poc/Chart/app/util/mychart.js
+END
+excanvas.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sql-bi/!svn/ver/27/trunk/AFE/web/poc/Chart/app/util/excanvas.js
+END
+mychart2.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sql-bi/!svn/ver/12/trunk/AFE/web/poc/Chart/app/util/mychart2.js
+END
+GroupedBarchart.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sql-bi/!svn/ver/11/trunk/AFE/web/poc/Chart/app/util/GroupedBarchart.js
+END
+MixedBarchart.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sql-bi/!svn/ver/11/trunk/AFE/web/poc/Chart/app/util/MixedBarchart.js
+END
+pie.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sql-bi/!svn/ver/7/trunk/AFE/web/poc/Chart/app/util/pie.js
+END
+burndown.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sql-bi/!svn/ver/7/trunk/AFE/web/poc/Chart/app/util/burndown.js
+END
+heatMap.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sql-bi/!svn/ver/7/trunk/AFE/web/poc/Chart/app/util/heatMap.js
+END

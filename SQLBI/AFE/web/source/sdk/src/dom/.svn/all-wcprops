@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/dom
+END
+Element.fx.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/dom/Element.fx.js
+END
+Query.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/dom/Query.js
+END
+Element.alignment.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/dom/Element.alignment.js
+END
+Element.scroll.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/dom/Element.scroll.js
+END
+Element.style.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/dom/Element.style.js
+END
+Element.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/dom/Element.js
+END
+Element.traversal.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/dom/Element.traversal.js
+END
+Element.anim.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/dom/Element.anim.js
+END
+Element.position.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/dom/Element.position.js
+END
+Element.dd.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/dom/Element.dd.js
+END
+Helper.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/dom/Helper.js
+END

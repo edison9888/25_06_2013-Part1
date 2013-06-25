@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="872" systemVersion="10K549" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Business" representedClassName="Business" syncable="YES">
+        <attribute name="address" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="businessId" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="cheap" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="cityId" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="favorite" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="hotList" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="logoImage" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rating" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="restaurant101" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="reviewCount" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="topRestaurant" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="type" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="cityGuideRelation" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="CityGuide" inverseName="newRelationship" inverseEntity="CityGuide" syncable="YES"/>
+        <relationship name="criteriaRelation" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Criteria" inverseName="newRelationship" inverseEntity="Criteria" syncable="YES"/>
+        <relationship name="reviewRelation" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Review" inverseName="newRelationship" inverseEntity="Review" syncable="YES"/>
+        <relationship name="signatureDishRelation" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="SignatureDish" inverseName="newRelationship" inverseEntity="SignatureDish" syncable="YES"/>
+    </entity>
+    <entity name="CityGuide" representedClassName="CityGuide" syncable="YES">
+        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="newRelationship" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Business" inverseName="cityGuideRelation" inverseEntity="Business" syncable="YES"/>
+    </entity>
+    <entity name="Criteria" representedClassName="Criteria" syncable="YES">
+        <attribute name="businessId" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="type" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="newRelationship" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Business" inverseName="criteriaRelation" inverseEntity="Business" syncable="YES"/>
+    </entity>
+    <entity name="Review" representedClassName="Review" syncable="YES">
+        <attribute name="businessId" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="date" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="desc" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="heading" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="image" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="userName" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="newRelationship" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Business" inverseName="reviewRelation" inverseEntity="Business" syncable="YES"/>
+    </entity>
+    <entity name="SignatureDish" representedClassName="SignatureDish" syncable="YES">
+        <attribute name="businessId" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="desc" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="image" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rating" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="userName" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="newRelationship" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Business" inverseName="signatureDishRelation" inverseEntity="Business" syncable="YES"/>
+    </entity>
+    <entity name="SyncTable" representedClassName="SyncTable" syncable="YES">
+        <attribute name="lastModifiedDate" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="User" representedClassName="User" syncable="YES">
+        <attribute name="authtoken" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="email" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="firstname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="image" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lastname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="score" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="userid" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="username" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Business" positionX="-594" positionY="-18" width="128" height="300"/>
+        <element name="CityGuide" positionX="-792" positionY="45" width="128" height="90"/>
+        <element name="Criteria" positionX="-792" positionY="204" width="128" height="90"/>
+        <element name="Review" positionX="-416" positionY="51" width="128" height="165"/>
+        <element name="SignatureDish" positionX="-414" positionY="234" width="128" height="150"/>
+        <element name="SyncTable" positionX="-738" positionY="327" width="128" height="60"/>
+        <element name="User" positionX="-245" positionY="27" width="128" height="165"/>
+    </elements>
+</model>

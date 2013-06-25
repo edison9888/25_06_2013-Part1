@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sql-bi/!svn/ver/234/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/JSON
+END
+SBJsonBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sql-bi/!svn/ver/234/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/JSON/SBJsonBase.h
+END
+SBJsonStreamParserAccumulator.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sql-bi/!svn/ver/234/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/JSON/SBJsonStreamParserAccumulator.m
+END
+SBJsonStreamParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sql-bi/!svn/ver/234/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/JSON/SBJsonStreamParser.m
+END
+SBJsonStreamParserAdapter.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sql-bi/!svn/ver/234/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/JSON/SBJsonStreamParserAdapter.m
+END
+SBJsonStreamParserState.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sql-bi/!svn/ver/234/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/JSON/SBJsonStreamParserState.m
+END
+SBJsonBase.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sql-bi/!svn/ver/234/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/JSON/SBJsonBase.m
+END
+SBJson.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sql-bi/!svn/ver/234/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/JSON/SBJson.h
+END
+NSString+SBJSON.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sql-bi/!svn/ver/234/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/JSON/NSString+SBJSON.h
+END
+NSObject+SBJson.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sql-bi/!svn/ver/234/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/JSON/NSObject+SBJson.h
+END
+NSString+SBJSON.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sql-bi/!svn/ver/234/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/JSON/NSString+SBJSON.m
+END
+NSObject+SBJson.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sql-bi/!svn/ver/234/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/JSON/NSObject+SBJson.m
+END
+JSON.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sql-bi/!svn/ver/234/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/JSON/JSON.h
+END
+SBJsonParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sql-bi/!svn/ver/234/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/JSON/SBJsonParser.h
+END
+SBJsonParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sql-bi/!svn/ver/234/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/JSON/SBJsonParser.m
+END
+SBJsonUTF8Stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sql-bi/!svn/ver/234/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/JSON/SBJsonUTF8Stream.h
+END
+SBJsonTokeniser.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sql-bi/!svn/ver/234/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/JSON/SBJsonTokeniser.h
+END
+SBJsonUTF8Stream.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sql-bi/!svn/ver/234/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/JSON/SBJsonUTF8Stream.m
+END
+SBJsonStreamParserAccumulator.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sql-bi/!svn/ver/234/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/JSON/SBJsonStreamParserAccumulator.h
+END
+SBJsonStreamParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sql-bi/!svn/ver/234/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/JSON/SBJsonStreamParser.h
+END
+SBJsonTokeniser.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sql-bi/!svn/ver/234/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/JSON/SBJsonTokeniser.m
+END
+SBJsonStreamParserAdapter.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sql-bi/!svn/ver/234/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/JSON/SBJsonStreamParserAdapter.h
+END
+SBJsonStreamParserState.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sql-bi/!svn/ver/234/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/JSON/SBJsonStreamParserState.h
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/core/src
+END
+EventObject.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/core/src/EventObject.js
+END
+EventManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/core/src/EventManager.js
+END
+Support.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/core/src/Support.js
+END
+Ext-more.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/core/src/Ext-more.js
+END
+Ext.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/core/src/Ext.js
+END

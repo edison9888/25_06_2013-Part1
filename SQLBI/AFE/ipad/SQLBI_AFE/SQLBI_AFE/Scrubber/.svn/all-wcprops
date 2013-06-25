@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sql-bi/!svn/ver/348/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/Scrubber
+END
+ScrubberLeftView.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sql-bi/!svn/ver/133/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/Scrubber/ScrubberLeftView.h
+END
+ScrubberRightView.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sql-bi/!svn/ver/133/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/Scrubber/ScrubberRightView.h
+END
+ScrubberMiddleView.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sql-bi/!svn/ver/133/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/Scrubber/ScrubberMiddleView.h
+END
+ScrubberLeftView.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sql-bi/!svn/ver/133/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/Scrubber/ScrubberLeftView.m
+END
+ScrubberView.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sql-bi/!svn/ver/348/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/Scrubber/ScrubberView.h
+END
+ScrubberRightView.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sql-bi/!svn/ver/133/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/Scrubber/ScrubberRightView.m
+END
+ScrubberMiddleView.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sql-bi/!svn/ver/133/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/Scrubber/ScrubberMiddleView.m
+END
+ScrubberView.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sql-bi/!svn/ver/348/trunk/AFE/ipad/SQLBI_AFE/SQLBI_AFE/Scrubber/ScrubberView.m
+END

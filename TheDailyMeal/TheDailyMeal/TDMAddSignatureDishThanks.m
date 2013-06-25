@@ -1,0 +1,230 @@
+//
+//  TDMAddSignatureDishThanks.m
+//  TheDailyMeal
+//
+//  Created by Apple on 16/02/2012.
+//  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+//
+
+#import "TDMAddSignatureDishThanks.h"
+#import "AppDelegate.h"
+
+@class AppDelegate;
+
+@implementation TDMAddSignatureDishThanks
+@synthesize shareButton;
+@synthesize isFromBusinessHome;
+@synthesize isFromShare;
+@synthesize dishName;
+@synthesize facebookShareContent;
+@synthesize dishCategory;
+@synthesize dishImage;
+@synthesize restaurantName;
+@synthesize imageData;
+@synthesize isAddDishShare;
+//@synthesize imageURL;
+
+- (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
+{
+    self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
+    if (self) {
+        
+        [self createNavigationBarButtonOfType:kBACK_BAR_BUTTON_TYPE];
+    }
+    return self;
+}
+
+- (void)didReceiveMemoryWarning
+{
+    [super didReceiveMemoryWarning];
+  
+}
+
+#pragma mark - View lifecycle
+
+- (void)viewDidLoad
+{
+    [super viewDidLoad];
+    [self.navigationItem setTDMIconImage];
+    [self createAdView];
+    // Do any additional setup after loading the view from its nib.
+}
+
+- (void)viewDidUnload
+{
+    [self setShareButton:nil];
+    [super viewDidUnload];
+    // Release any retained subviews of the main view.
+    // e.g. self.myOutlet = nil;
+}
+
+- (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation
+{
+    // Return YES for supported orientations
+    return (interfaceOrientation == UIInterfaceOrientationPortrait);
+}
+
+- (void)navBarButtonClicked:(id)sender 
+{   
+    if(self.isFromBusinessHome)
+    {
+        int index = ([self.navigationController.viewControllers count] -2) - 1; //to the second last viewController (count - 2)
+        [self.navigationController popToViewController:[self.navigationController.viewControllers objectAtIndex:index] animated:YES];
+    }
+    else
+    {
+    [self.navigationController popToRootViewControllerAnimated:YES];
+    }
+}
+
+-(IBAction) shareButtonClick:(id)sender{
+    NSLog(@"dish name %@",self.dishName);
+    if(shareViewController){
+        [shareViewController release];
+        shareViewController = nil;
+    }
+    isFromShare = YES;
+    NSString *restaurantsName = [TDMUtilities getRestaurantName];
+    NSString *twiterText = [NSString stringWithFormat:@"I vote %@ as the #bestdish at %@",self.dishName,restaurantsName];
+    shareViewController = [[ShareViewController alloc] initWithNibName:@"ShareViewController" bundle:nil];
+    shareViewController.isFromAddDish = YES;
+    shareViewController.parentController = self;
+    shareViewController.dishName = self.dishName;
+    shareViewController.addDishBody = twiterText;
+    if([TDMUtilities getRestaurantName])
+    {
+        shareViewController.restauraName = [TDMUtilities getRestaurantName];
+    }
+    if([[NSUserDefaults standardUserDefaults] objectForKey:@"dishURL"])
+    {
+        shareViewController.imageData = [[NSUserDefaults standardUserDefaults] objectForKey:@"dishURL"] ;
+    }
+ //   NSLog(@"image url ====== %@",shareViewController.imagePath);
+//    shareViewController.imagePath = urlString;
+    
+    AppDelegate *appDelegate = (AppDelegate *)[UIApplication sharedApplication].delegate;
+    [appDelegate.window addSubview:shareViewController.view];
+    
+}
+
+#pragma mark - share view delegates
+
+
+- (void)onMailButtonClickWithBody:(NSString *)body
+{
+    isAddDishShare=YES;
+    if ([MFMailComposeViewController canSendMail]) 
+    {
+        
+        MFMailComposeViewController *picker = 
+        [[MFMailComposeViewController alloc] init];
+        picker.mailComposeDelegate = self;    
+        [picker.visibleViewController.navigationItem setTDMTitle:@"Share with mail"];
+        
+        [picker setMessageBody:body isHTML:YES];
+        NSString *titleString = [NSString stringWithFormat:@"What's the best dish at %@",shareViewController.restauraName];
+        [picker setSubject:titleString];
+        if(imageData){
+            [picker addAttachmentData:imageData mimeType:@"image/jpeg" fileName:@"Picture.jpeg"];
+        }
+        [self.navigationController presentModalViewController:picker animated:YES];
+        [picker release];
+        
+    }
+    else 
+    {
+        UIAlertView *alert = [[UIAlertView alloc]initWithTitle:@"The Daily Meal" 
+                                                       message:@"Please check your mail configuration. We can't send e-mail from your device." 
+                                                      delegate:nil 
+                                             cancelButtonTitle:@"OK" 
+                                             otherButtonTitles:nil];
+        [alert show];
+        [alert release];
+        
+    }
+}
+
+#pragma mark - mail composer delagate
+
+- (void)mailComposeController:(MFMailComposeViewController*)controller 
+          didFinishWithResult:(MFMailComposeResult)result 
+                        error:(NSError*)error 
+{
+    [controller dismissModalViewControllerAnimated:YES];
+}
+
+#pragma mark - facebook share
+
+- (void)shareContent {
+   
+    NSString *restaurantsName = [TDMUtilities getRestaurantName];
+    NSString *title = [NSString stringWithFormat:@"Yum! %@ is the best dish at %@",self.dishName,restaurantsName];
+    NSString *description = [NSString stringWithFormat:@"I just added my dish %@ using The Daily Meal's Best Dishes app for iPhone. Think there's a better dish at %@? Let me know!",self.dishName,restaurantsName];
+    
+    NSMutableDictionary *params =  
+    [NSMutableDictionary dictionaryWithObjectsAndKeys:
+     @"The Daily Meal", @"name",
+     title, @"caption",
+     description, @"description",
+     @"http://www.facebook.com/TheDailyMeal", @"link",
+     nil, @"picture",
+     nil];  
+    [facebook dialog:@"feed"
+           andParams:params
+         andDelegate:self];
+}
+
+
+- (void)onFacebookButtonClick:(NSString *)body {
+    
+    if(facebook){
+        
+        [facebook release];
+        facebook = nil;
+    }
+    facebook = [[Facebook alloc] initWithAppId:FBAPP_KEY andDelegate:self];
+    NSArray *permissions = [[NSArray alloc] initWithObjects:@"email", nil];
+    
+    facebook.userFlow = YES;
+    
+    NSUserDefaults *defaults = [NSUserDefaults standardUserDefaults];
+    
+    if ([defaults objectForKey:@"FBAccessTokenKey"] 
+        && [defaults objectForKey:@"FBExpirationDateKey"])
+    {
+        facebook.accessToken = [defaults objectForKey:@"FBAccessTokenKey"];
+        facebook.expirationDate = [defaults objectForKey:@"FBExpirationDateKey"];
+        [self shareContent];
+    }
+    
+    if (![facebook isSessionValid]) {
+        [facebook authorize:permissions];
+    }
+}
+
+
+- (void)fbDidLogin
+{
+    NSUserDefaults *defaults = [NSUserDefaults standardUserDefaults];
+    [defaults setObject:[facebook accessToken] forKey:@"FBAccessTokenKey"];
+    [defaults setObject:[facebook expirationDate] forKey:@"FBExpirationDateKey"];
+    [defaults synchronize];
+    
+    [self shareContent];
+}
+
+- (void)fbDidLogout
+{
+    NSUserDefaults *defaults = [NSUserDefaults standardUserDefaults];
+    [defaults removeObjectForKey:@"FBAccessTokenKey"];
+    [defaults removeObjectForKey:@"FBExpirationDateKey"];
+    
+} 
+
+
+
+- (void)dealloc {
+    [shareButton release];
+    [super dealloc];
+}
+@end

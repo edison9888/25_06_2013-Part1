@@ -1,0 +1,34 @@
+10
+
+dir
+904
+https://subversion.assembla.com/svn/smg-the-daily-meal/trunk/TheDailyMeal/TheDailyMeal/ShareKit/Localization
+https://subversion.assembla.com/svn/smg-the-daily-meal
+
+
+
+2012-03-20T12:50:47.188956Z
+383
+sudeepks
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e997812a-ea43-414e-89fb-adbd734650f1
+
+de.lproj
+dir
+
+en.lproj
+dir
+

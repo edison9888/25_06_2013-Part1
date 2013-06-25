@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/container
+END
+AbstractContainer.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/container/AbstractContainer.js
+END
+ButtonGroup.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/container/ButtonGroup.js
+END
+Viewport.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/container/Viewport.js
+END
+DockingContainer.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/container/DockingContainer.js
+END
+Container.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/container/Container.js
+END

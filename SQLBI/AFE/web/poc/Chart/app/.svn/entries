@@ -1,0 +1,80 @@
+10
+
+dir
+177
+https://subversion.assembla.com/svn/sql-bi/trunk/AFE/web/poc/Chart/app
+https://subversion.assembla.com/svn/sql-bi
+
+
+
+2012-07-25T08:51:56.563072Z
+27
+vishnuc
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+c9bedf4f-923d-43db-83ae-48e03ff530b8
+
+model
+dir
+
+controller
+dir
+
+data
+dir
+
+view
+dir
+
+app.js
+file
+
+
+
+
+2012-08-09T07:20:01.000000Z
+e1753c227fdec4801ea1ec0b1454ef47
+2012-07-20T10:24:11.517735Z
+7
+vishnuc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+445
+
+store
+dir
+
+util
+dir
+

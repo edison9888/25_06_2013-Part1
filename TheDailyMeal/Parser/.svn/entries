@@ -1,0 +1,34 @@
+10
+
+dir
+904
+https://subversion.assembla.com/svn/smg-the-daily-meal/trunk/TheDailyMeal/Parser
+https://subversion.assembla.com/svn/smg-the-daily-meal
+
+
+
+2012-04-17T11:56:06.045749Z
+791
+baburaju
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e997812a-ea43-414e-89fb-adbd734650f1
+
+JSON Parser
+dir
+
+XML Parser
+dir
+

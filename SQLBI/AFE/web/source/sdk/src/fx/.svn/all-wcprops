@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/fx
+END
+Anim.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/fx/Anim.js
+END
+Queue.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/fx/Queue.js
+END
+CubicBezier.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/fx/CubicBezier.js
+END
+Easing.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/fx/Easing.js
+END
+Animator.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/fx/Animator.js
+END
+Manager.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/fx/Manager.js
+END
+PropertyHandler.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sql-bi/!svn/ver/9/trunk/AFE/web/source/sdk/src/fx/PropertyHandler.js
+END

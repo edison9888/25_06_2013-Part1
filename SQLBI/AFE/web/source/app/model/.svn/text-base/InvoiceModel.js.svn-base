@@ -1,0 +1,70 @@
+/* 
+ * 
+ * Merrin J
+ */
+
+Ext.define('AFE.model.InvoiceModel', {
+    extend: 'Ext.data.Model',
+    fields: [
+    {
+        name: 'AccountingDate',
+        type:'Date'
+    },
+    {
+        name:'AccountingDateAsStr',
+        type:'String'
+    },
+    {
+        name:'Actual',
+        type:'double'
+    },
+    {
+        name:'ActualsAsStr',
+        type:'String'
+    },
+    {
+        name:'BillingCategory',
+        type:'String'
+    },
+    {
+        name:'BillingCategoryID',
+        type:'String'
+    },
+    {
+        name:'FieldEstimate',
+        type:'String'
+    },
+    {
+        name:'FieldEstimateAsStr',
+        type:'String'
+    },
+    {
+        name:'InvoiceDate',
+        type:'Date'
+    },
+    {
+        name:'InvoiceDateAsStr',
+        type:'String'
+    },
+    {
+        name:'InvoiceImageLink',
+        type:'String'
+    },
+    {
+        name:'InvoiceNumber',
+        type:'String'
+    },
+    {
+        name:'PropertyName',
+        type:'String'
+    },
+    {
+        name:'PropertyType',
+        type:'String'
+    },
+    {
+        name:'VendorName',
+        type:'String'
+    }
+    ]
+});

@@ -1,0 +1,95 @@
+#import "${name}Object.h"
+
+@implementation ${name}Object
+
+%for prop in properties:
+%if 'inherited' not in prop:
+@synthesize ${prop['name']} = _${prop['name']};
+%endif
+%endfor
+
+%for prop in properties:
+NSString *${name}${prop['key']}CodingKey = @"${name}${prop['key']}CodingKey";
+%endfor
+
+- (id)initWith\
+%for i in range(len(properties)):
+${properties[i]['name']}:(${properties[i]['object_type']} *)${properties[i]['name']}
+%if i < len(properties) - 1:
+    \
+%endif
+%endfor
+{
+    self = [super init];
+    if (self) {
+    %for prop in properties:
+        _${prop['name']} = ${prop['name']};
+    %endfor
+    }
+    return self;
+}
+
+- (NSArray *) getKeyValuePairs
+{
+    return [NSArray arrayWithObjects:
+%for prop in properties:
+    %if prop['object_type'] == 'NSArray' and prop['type'] in types:
+            [KeyValuePair pairWithKey:@"${prop['key']}" andValue:&_${prop['name']} andArrayType:[${types[prop['type']]} class]],
+    %elif prop['object_type'] == 'NSArray':
+            [KeyValuePair pairWithKey:@"${prop['key']}" andValue:&_${prop['name']} andArrayType:[${prop['type']} class]],
+    %else:
+            [KeyValuePair pairWithKey:@"${prop['key']}" andValue:&_${prop['name']} andType:[${prop['object_type']} class]],
+    %endif
+%endfor
+            nil];
+}
+
+%if len(properties) == 1 and properties[0]['object_type'] == 'NSArray':
+- (int)count {
+    return [${properties[0]['name']}_ count];
+}
+    %if properties[0]['type'] in types:
+- (${types[properties[0]['type']]} *)objectAtIndex:(int)index {
+    %else:
+- (${properties[0]['type']} *)objectAtIndex:(int)index {
+    %endif
+    return [self.${properties[0]['name']} objectAtIndex:index];
+}
+%endif
+
+
+- (void)encodeWithCoder:(NSCoder *)aCoder {
+%for prop in properties:
+    [aCoder encodeObject:_${prop['name']} forKey:${name}${prop['key']}CodingKey];
+%endfor
+}
+
+- (id)initWithCoder:(NSCoder *)aDecoder {
+%for prop in properties:
+    ${prop['object_type']} *${prop['name']} = [aDecoder decodeObjectForKey:${name}${prop['key']}CodingKey];
+%endfor
+    self = [self initWith\
+%for i in range(len(properties)):
+${properties[i]['name']}:${properties[i]['name']} \
+%endfor
+];
+    return self;
+}
+
+- (id)copyWithZone:(NSZone *)zone {
+%for prop in properties:
+    %if prop['object_type'] == 'NSArray':
+        ${prop['object_type']} *${prop['name']} = [[NSArray alloc] initWithArray:_${prop['name']} copyItems:YES];
+    %else:
+        ${prop['object_type']} *${prop['name']} = [_${prop['name']} copy];
+    %endif
+%endfor
+    ${name}Object *object = [[[self class] allocWithZone:zone] initWith\
+%for i in range(len(properties)):
+${properties[i]['name']}:${properties[i]['name']} \
+%endfor
+];
+    return object;
+}
+
+@end
